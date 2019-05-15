@@ -1,9 +1,6 @@
-package Other;
+package other.异常;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-
-public class ExceptionTest {
+public class 捕获异常 {
     public static void main(String[] args)
     {
         ExceptionTest2();

@@ -1,4 +1,4 @@
-package coding.第1打印一个目录下的所有子目录;
+package other.打印一个目录下的所有子目录;
 
 import java.io.File;
 
