@@ -21,5 +21,9 @@ public class Test {
         System.out.println(((-10)>>1)+"    "+(-10/2) );
         System.out.println(((-10)>>2)+"    "+(-10/4));
         System.out.println(((10)<<2)+"    "+(10*4));
+        short c=19;
+        System.out.println("*************"+(c>>2));
+        byte d=20;
+        System.out.println("^^^^^^^^^^^^^^^^^  "+(d>>2));
     }
 }
