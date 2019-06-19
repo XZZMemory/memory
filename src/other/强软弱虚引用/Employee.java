@@ -1,6 +1,9 @@
 package other.强软弱虚引用;
 
 public class Employee {
+    private String id;
+    private String name;
+
     public void setId(String id) {
         this.id = id;
     }
@@ -9,16 +12,14 @@ public class Employee {
         return id;
     }
 
-    private  String id;
-    private  String name;
-    public Employee(String id)
-    {
-        this.id=id;
+    public Employee(String id) {
+        this.id = id;
         getDataFromINfoCenter();
 
     }
+
     //到数据库中获取信息
-    private void getDataFromINfoCenter()
-    {}
+    private void getDataFromINfoCenter() {
+    }
 
 }
