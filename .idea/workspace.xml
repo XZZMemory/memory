@@ -8,23 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/other/equals和hashcode方法/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/equals和hashcode方法/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/序列化与反序列化/DeserializeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/序列化与反序列化/MyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/序列化与反序列化/SerializableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/JDBC连接数据库/databaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/JDBC连接数据库/databaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/异常/捕获异常.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/异常/捕获异常.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/强软弱虚引用/软引用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/强软弱虚引用/软引用/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/类加载器/TestClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/类加载器/TestClassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,74 +48,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/序列化与反序列化/MyObject.java">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="408">
+              <caret line="122" selection-start-line="122" selection-end-line="122" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/序列化与反序列化/SerializableDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/State.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="12" selection-start-line="12" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/equals和hashcode方法/MyObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/equals和hashcode方法/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
-              <folding>
-                <element signature="e#3709#3710#0" expanded="true" />
-                <element signature="e#3746#3747#0" expanded="true" />
-                <element signature="e#8033#8034#0" expanded="true" />
-                <element signature="e#8081#8082#0" expanded="true" />
-                <element signature="e#8731#8732#0" expanded="true" />
-                <element signature="e#8776#8777#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="621">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
+        <entry file="file://$PROJECT_DIR$/src/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="822">
-              <caret line="644" column="21" selection-start-line="644" selection-start-column="21" selection-end-line="644" selection-end-column="21" />
+            <state relative-caret-position="115">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2346">
+              <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1541">
+              <caret line="100" column="46" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
-                <element signature="e#24298#24299#0" expanded="true" />
-                <element signature="e#24363#24364#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+                <element signature="e#1049#1050#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -176,6 +157,7 @@
       <find>Num</find>
       <find>NaN</find>
       <find>compareTo</find>
+      <find>return</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -184,9 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/other/多线程/Synchronized测试/sy.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/调用start方法和调用run方法的区别/Test.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/MultiThread.java" />
         <option value="$PROJECT_DIR$/src/内部类/Circle.java" />
         <option value="$PROJECT_DIR$/src/内部类/第二种局部内部类/Man.java" />
         <option value="$PROJECT_DIR$/src/内部类/InnerClassDemo.java" />
@@ -195,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/内部类/第四种静态内部类/Demo.java" />
         <option value="$PROJECT_DIR$/src/内部类/第三种匿名内部类/MyObject.java" />
         <option value="$PROJECT_DIR$/src/内部类/第三种匿名内部类/Demo.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/other/optionalTest/Main.java" />
         <option value="$PROJECT_DIR$/src/other/optionalTest/Test.java" />
         <option value="$PROJECT_DIR$/src/other/SortedMapDemo.java" />
@@ -235,6 +213,10 @@
         <option value="$PROJECT_DIR$/src/other/序列化与反序列化/MyObject.java" />
         <option value="$PROJECT_DIR$/src/other/equals和hashcode方法/Main.java" />
         <option value="$PROJECT_DIR$/src/other/equals和hashcode方法/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Sort.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Test2.java" />
       </list>
     </option>
   </component>
@@ -244,10 +226,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="478" />
+    <option name="y" value="240" />
+    <option name="width" value="1329" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -255,7 +238,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,27 +255,31 @@
               <item name="memory" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="memory" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="equals和hashcode方法" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="memory" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="序列化与反序列化" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,6 +298,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -332,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="DeserializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.序列化与反序列化.DeserializeDemo" />
       <module name="memory" />
@@ -359,19 +347,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhantomReferenceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.强软弱虚引用.PhantomReferenceTest" />
-      <module name="memory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.强软弱虚引用.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SerializableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.序列化与反序列化.SerializableDemo" />
       <module name="memory" />
@@ -385,33 +360,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.强软弱虚引用.软引用.Test" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
       <module name="memory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.强软弱虚引用.软引用.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="memory" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PhantomReferenceTest" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.SerializableDemo" />
       <item itemvalue="Application.DeserializeDemo" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Sort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DeserializeDemo" />
         <item itemvalue="Application.SerializableDemo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.PhantomReferenceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -449,18 +425,22 @@
       <workItem from="1562764717429" duration="599000" />
       <workItem from="1562846227549" duration="6082000" />
       <workItem from="1563503332930" duration="2443000" />
-      <workItem from="1563537679218" duration="3072000" />
+      <workItem from="1563537679218" duration="3144000" />
+      <workItem from="1563795845312" duration="2850000" />
+      <workItem from="1563972162892" duration="2054000" />
+      <workItem from="1564304668861" duration="6523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122356000" />
+    <option name="totallyTimeSpent" value="133855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1064" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4032258" visible="true" weight="0.13059701" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.5967742" side_tool="true" visible="true" weight="0.13059701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.39964157" visible="true" weight="0.13326226" />
+      <window_info id="Structure" order="1" sideWeight="0.6003584" side_tool="true" weight="0.13326226" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -473,7 +453,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.8524138" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.8516129" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32580644" />
       <window_info anchor="bottom" id="Statistic" order="10" />
@@ -559,6 +539,18 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sort.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -567,42 +559,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/other/optionalTest/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/serialNO/IdWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/异常/捕获异常.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/MultiThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/集合/arraylist和linkedlist尾部插入元素效率对比/ArraylistLinkedlistDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -812,13 +768,6 @@
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/text/DateFormat.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/WeakHashMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Class.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Number.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Double.java" />
@@ -897,9 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/object.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/io/ObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -918,6 +864,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/object.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/序列化与反序列化/MyObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -932,6 +881,71 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/equals和hashcode方法/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/equals和hashcode方法/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
+          <folding>
+            <element signature="e#3709#3710#0" expanded="true" />
+            <element signature="e#3746#3747#0" expanded="true" />
+            <element signature="e#8033#8034#0" expanded="true" />
+            <element signature="e#8081#8082#0" expanded="true" />
+            <element signature="e#8731#8732#0" expanded="true" />
+            <element signature="e#8776#8777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13777">
+          <caret line="644" column="21" selection-start-line="644" selection-start-column="21" selection-end-line="644" selection-end-column="21" />
+          <folding>
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="100" column="46" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -955,47 +969,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/equals和hashcode方法/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/equals和hashcode方法/MyObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="345">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/HashSet.java">
+    <entry file="file://$PROJECT_DIR$/src/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
-          <folding>
-            <element signature="e#3709#3710#0" expanded="true" />
-            <element signature="e#3746#3747#0" expanded="true" />
-            <element signature="e#8033#8034#0" expanded="true" />
-            <element signature="e#8081#8082#0" expanded="true" />
-            <element signature="e#8731#8732#0" expanded="true" />
-            <element signature="e#8776#8777#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret line="644" column="21" selection-start-line="644" selection-start-column="21" selection-end-line="644" selection-end-column="21" />
-          <folding>
-            <element signature="e#24298#24299#0" expanded="true" />
-            <element signature="e#24363#24364#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
