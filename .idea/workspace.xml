@@ -5,19 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/other/dynamicProxy/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/dynamicProxy/Developer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/dynamicProxy/DynamicProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/dynamicProxy/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/dynamicProxy/PythonDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/ConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/GenericityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/ParaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/pojo/ABC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/pojo/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/pojo/HeroPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/pojo/Service1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/pojo/Service2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/pojo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/reflectDemo/说明.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/JDBC连接数据库/databaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/JDBC连接数据库/databaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/SerializableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/SerializableDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/异常/捕获异常.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/异常/捕获异常.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/类加载器/TestClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/类加载器/TestClassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第一种成员内部类/Circle$Draw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第一种成员内部类/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第一种成员内部类/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第三种匿名内部类/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第三种匿名内部类/MyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第二种局部内部类/Man$Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第二种局部内部类/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第二种局部内部类/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第四种静态内部类/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第四种静态内部类/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/内部类/第四种静态内部类/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Haha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/内部类/第一种成员内部类/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/第一种成员内部类/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/内部类/第一种成员内部类/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/第一种成员内部类/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/内部类/第三种匿名内部类/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/第三种匿名内部类/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/内部类/第三种匿名内部类/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/第三种匿名内部类/MyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/内部类/第二种局部内部类/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/第二种局部内部类/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/内部类/第四种静态内部类/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/第四种静态内部类/Demo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +105,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558522133097" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/other" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,6 +127,9 @@
       <recent name="other.强软弱虚引用" />
       <recent name="内部类.第一种成员内部类" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/other" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,13 +143,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="DeserializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.序列化与反序列化.DeserializeDemo" />
+  <component name="RunManager" selected="Application.ConstructorTest">
+    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.reflectDemo.ConstructorTest" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.序列化与反序列化.*" />
+          <option name="PATTERN" value="other.reflectDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.equals和hashcode方法.Main" />
+    <configuration name="DynamicProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.dynamicProxy.DynamicProxyDemo" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.equals和hashcode方法.*" />
+          <option name="PATTERN" value="other.dynamicProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +198,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DeserializeDemo" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Sort" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.DynamicProxyDemo" />
+      <item itemvalue="Application.ConstructorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorTest" />
+        <item itemvalue="Application.DynamicProxyDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DeserializeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +252,7 @@
       <workItem from="1563795845312" duration="2850000" />
       <workItem from="1563972162892" duration="2054000" />
       <workItem from="1564304668861" duration="6523000" />
-      <workItem from="1564662168372" duration="499000" />
+      <workItem from="1564662168372" duration="1471000" />
     </task>
     <servers />
   </component>
