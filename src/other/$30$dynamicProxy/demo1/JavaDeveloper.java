@@ -1,4 +1,4 @@
-package other.dynamicProxy;
+package other.$30$dynamicProxy;
 
 public class JavaDeveloper implements Developer ,Developer2{
     private String name;

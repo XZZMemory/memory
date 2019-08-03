@@ -1,4 +1,4 @@
-package other.dynamicProxy;
+package other.$30$dynamicProxy;
 
 public interface Developer2 {
     void cook();
