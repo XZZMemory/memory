@@ -5,6 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
+import java.nio.channels.Selector;
 
 /**
  * created by memory
@@ -12,6 +13,7 @@ import java.nio.channels.FileChannel;
  */
 public class Test {
     public static void main(String[] args) throws IOException {
+        Selector selector = Selector.open();
         File file = new File("data.txt");
         FileOutputStream outputStream = new FileOutputStream(file);
         FileChannel channel = outputStream.getChannel();

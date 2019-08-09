@@ -4,7 +4,8 @@
  */
 public class Test {
     public static void main(String[] args) {
-        int[] nums1 = new int[]{1, 3};
+        /*
+        * int[] nums1 = new int[]{1, 3};
         int[] nums2 = new int[]{2, 4, 5, 6, 7, 8, 9, 10};
         Test test = new Test();
         System.out.println(test.findMedianSortedArrays(nums1, nums2));
@@ -12,11 +13,17 @@ public class Test {
         int[] nums = {16, 7, 3, 20, 17, 8};
         for (int num : nums) {
             System.out.print(num + " ");
-        } headSort(nums);
+        }
+        headSort(nums);
 
         for (int num : nums) {
             System.out.print(num + " ");
-        }
+        }*/
+        Test test = new Test();
+
+        System.out.println("***************");
+        System.out.println(test.times2(10));
+        ;
     }
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
@@ -127,5 +134,41 @@ public class Test {
             }
         }
         list[k] = temp;
+    }
+
+    public int times(int n) {
+        if (n == 2 || n == 4) {
+            return 2;
+        }
+        if (n == 1 || n == 3 || n == 5) {
+            return 1;
+        }
+        return min(times(n - 1), times(n - 3), times(n - 5)) + 1;
+    }
+
+    /**
+     * 求三者最小值
+     */
+    public int min(int a, int b, int c) {
+        a = a < b ? a : b;
+        return c < a ? c : a;
+    }
+
+    public int times2(int n) {
+        int[] f = new int[n + 1];
+        f[1] = 1;
+        f[2] = 2;
+        f[3] = 1;
+        f[4] = 2;
+        f[5] = 1;
+        for (int index = 6; index <= n; index++) {
+            int min = index;
+            for (int i = 1; i <= index / 2; i++) {
+                int currentTimes = f[i] + f[index - i];
+                min = currentTimes < min ? currentTimes : min;
+            }
+            f[index] = min;
+        }
+        return f[n];
     }
 }
