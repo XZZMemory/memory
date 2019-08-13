@@ -9,9 +9,9 @@ import java.util.Properties;
 public class Main {
     public static void main(String[] args) throws Exception {
 
-        File condfigFile = new File("E:\\memory-master\\src\\reflectDemo\\config.txt");
+        File configFile = new File("E:\\memory-master\\src\\reflectDemo\\config.txt");
         Properties properties = new Properties();
-        properties.load(new FileInputStream(condfigFile));
+        properties.load(new FileInputStream(configFile));
         String className = properties.getProperty("class");
         String method = properties.getProperty("method");
         try {

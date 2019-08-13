@@ -13,6 +13,10 @@ public class MethodTest {
         HeroPlus heroPlus = new HeroPlus();
         try {
             /** 获取名字叫做 setName，参数类型是String 的方法*/
+            Method[] methods = heroPlus.getClass().getDeclaredMethods();
+            for (Method method : methods) {
+                System.out.println(method);
+            }
             Method method = heroPlus.getClass().getMethod("setName", String.class);
             /** 对对象heroPlus 调用这个方法*/
             method.invoke(heroPlus, "memory");

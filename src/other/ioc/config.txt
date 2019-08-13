@@ -1,0 +1,2 @@
+Apple:other.ioc.object.Apple
+Orange:other.ioc.object.Orange

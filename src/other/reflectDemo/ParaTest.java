@@ -14,6 +14,7 @@ public class ParaTest {
         try {
             /**  获取对象heroPlus 名字叫做“name" 的字段*/
             Field field = heroPlus.getClass().getField("name");
+            System.out.println(field);
             /** 修改这个字段的值*/
             field.set(heroPlus, "change");
             /** 打印修改后的值*/
