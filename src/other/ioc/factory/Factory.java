@@ -14,7 +14,7 @@ public class Factory {
         properties.load(new FileInputStream(file));
         String path = properties.getProperty(name);
         if (path == null) {
-            System.out.println("配置文件中找不到bean，请查看是否注册该bean!");
+            System.out.println("配置文件中找不到bean: " + name + ",请查看是否注册该bean!");
             return null;
         }
         Class cl = Class.forName(path);
