@@ -1,6 +1,6 @@
 package other.dynamicProxy.jdk.demo1;
 
-public class JavaDeveloper implements Developer ,Developer2{
+public class JavaDeveloper implements Developer , LifeSkills {
     private String name;
 
     public JavaDeveloper(String name) {

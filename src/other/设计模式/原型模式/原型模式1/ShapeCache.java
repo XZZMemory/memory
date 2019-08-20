@@ -12,7 +12,7 @@ public class ShapeCache {
 
     public static Shape getShape(String shapeId) {
         Shape cachedShape = shapeMap.get(shapeId);
-        return (Shape) cachedShape.clone();
+        return (Shape) cachedShape.clone();//原型模式
     }
 
     // 对每种形状都运行数据库查询，并创建该形状

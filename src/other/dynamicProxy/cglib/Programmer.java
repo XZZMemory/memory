@@ -1,4 +1,4 @@
-package other.dynamicProxy.cglib;
+package other.dynamicProxy.cglib;///import net.sf.cglib.proxy.MethodInterceptor;
 
 public class Programmer {
     public void code() {

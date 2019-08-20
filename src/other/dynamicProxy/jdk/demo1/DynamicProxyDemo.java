@@ -17,12 +17,12 @@ public class DynamicProxyDemo {
          *
          * 在面向对象的编程之中，如果我们想要约定Proxy 和RealSubject可以实现相同的功能，有两种方式：
          *
-         * 　　a.一个比较直观的方式，就是定义一个功能接口，然后让Proxy 和RealSubject来实现这个接口。
+         * 　　a.一个比较直观的方式，就是定义一个功能接口，然后让Proxy 和RealSubject来实现这个接口。jdk动态代理
          *
-         *     　b.还有比较隐晦的方式，就是通过继承。因为如果Proxy 继承自RealSubject，这样Proxy则拥有了RealSubject的功能，
+         *     　b.还有比较隐晦的方式，就是通过继承。因为如果Proxy 继承自RealSubject，这样Proxy则拥有了RealSubject的功能，cglib动态代理
          *
          * 　　　Proxy还可以通过重写RealSubject中的方法，来实现多态。
-         *
+         *   这两种动态代理的区别是 JDK动态代理需要目标对象实现接口，而 CGLIB的动态代理则不需要。
          * 其中JDK中提供的创建动态代理的机制，是以a 这种思路设计的，*/
         System.out.println("当前类实现的接口");
         Class<?>[] c = javaDeveloper.getClass().getInterfaces();//继承的接口
@@ -51,6 +51,6 @@ public class DynamicProxyDemo {
         Developer developer = (Developer) memoryProxy;
         developer.code();
         developer.debug();
-        ((Developer2) memoryProxy).cook();
+        ((LifeSkills) memoryProxy).cook();
     }
 }

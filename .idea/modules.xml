@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cglib/cglib.iml" filepath="$PROJECT_DIR$/cglib/cglib.iml" />
       <module fileurl="file://$PROJECT_DIR$/memory.iml" filepath="$PROJECT_DIR$/memory.iml" />
     </modules>
   </component>

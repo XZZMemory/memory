@@ -3,9 +3,11 @@ package other.reflectDemo;
 import java.lang.reflect.Constructor;
 
 public class ConstructorTest {
+    private static final String className = "other.reflectDemo.pojo.Hero";
+
     public static void main(String[] args) throws Exception {
         /** 加载class对象*/
-        Class class1 = Class.forName("other.reflectDemo.pojo.Hero");
+        Class class1 = Class.forName(className);
         /** 获取这个类的所有公共构造方法*/
         System.out.println("获取这个类的所有公共构造方法");
         Constructor[] array = class1.getConstructors();
