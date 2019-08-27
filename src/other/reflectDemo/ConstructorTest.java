@@ -35,6 +35,7 @@ public class ConstructorTest {
         Object cc = con.newInstance();
         System.out.println("获取私有构造方法");
         Constructor c = class1.getDeclaredConstructor(boolean.class, float.class);
+
         System.out.println("创建实例");
         c.setAccessible(true);/**暴力访问，强制忽略访问修饰符*/
         Object o = c.newInstance(true, 10);

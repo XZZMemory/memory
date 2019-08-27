@@ -1,2 +1,2 @@
-class=reflectDemo.pojo.Service2
+class=other.reflectDemo.pojo.Service2
 method=doService2

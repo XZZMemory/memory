@@ -9,6 +9,6 @@ public class EmployeeReportManager  implements IReportManager{
 
     @Override
     public String creatReport() {
-        return "this is a employee report";
+        return "this is algorithm.a employee report";
     }
 }

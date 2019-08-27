@@ -1,9 +1,16 @@
+import java.math.BigInteger;
+import java.util.Collections;
+
 /**
  * @author memory
  * @date 2019/4/29
  */
 public class Test {
     public static void main(String[] args) {
+        String aa = "23";
+        System.out.println(aa.intern());
+        System.out.println("#######");
+        ;
         /*
         * int[] nums1 = new int[]{1, 3};
         int[] nums2 = new int[]{2, 4, 5, 6, 7, 8, 9, 10};
@@ -18,12 +25,17 @@ public class Test {
 
         for (int num : nums) {
             System.out.print(num + " ");
-        }*/
+        }
         Test test = new Test();
 
         System.out.println("***************");
-        System.out.println(test.times2(10));
-        ;
+        System.out.println(test.times2(10));*/
+        int b = 4 - 1;
+        int a = 20;
+        System.out.println(Integer.toBinaryString(a));
+        System.out.println(Integer.toBinaryString(b));
+        System.out.println(a & b);
+        System.out.println(new BigInteger("7FFFFFFF", 16));
     }
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

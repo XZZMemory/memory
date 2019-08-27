@@ -5,61 +5,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cglib/cglib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cglib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/three/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/three/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/yang/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/yang/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/yang/RectNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/RegExpTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/exception/TryCatchFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/failfast/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/timedtask/LyzListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/timedtask/LyzTimerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/timedtask/MyTimerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/timedtask/TimerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wangyi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/LastRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/beiketwo/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/beiketwo/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/beiketwo/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/beiketwo/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/bilibili/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/bilibili/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/bilibili/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/bilibili/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/bilibili/说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/jd/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/jd/Main11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/jd/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/kuaishou/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/kuaishou/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/kuaishou/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/wanmeishijie/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/wanmeishijie/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/callback/Callback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/callback/CallbackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/callback/Michael.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/callback/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/callback/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/callback/说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/innerClass/anonymousInnerClass/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/innerClass/staticInnerClass/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/innerClass/staticInnerClass/OuterClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/innerClass/说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/staticUsage/StaticImportPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/staticUsage/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/staticUsage/StaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/staticUsage/说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/使用静态内部类1/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/使用静态内部类1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL2/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/懒加载3/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/Adder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/beike/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/beike/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/beike/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/beike/Main4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/StringvalueOf和IntegertoString的区别/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/StringvalueOf和IntegertoString的区别/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/dynamicProxy/jdk/demo1/Developer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/a/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/algorithm/beike/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/algorithm/beike/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/$31$ClassLoader/MyClassLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/$31$ClassLoader/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/$31$ClassLoader/Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/Enum枚举对象/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/Enum枚举对象/OrderTypeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/Enum枚举对象/Test2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/Enum枚举对象/Test2/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/Enum枚举对象/Test2/SeasonEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/Enum枚举对象/WeekDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/dynamicProxy/cglib/Programmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/dynamicProxy/cglib/Programmer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/memory/other/dynamicProxy/jdk/demo1/DynamicProxyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/dynamicProxy/jdk/demo1/DynamicProxyDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/dynamicProxy/jdk/demo1/JavaDeveloper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/dynamicProxy/jdk/demo1/JavaDeveloper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/ioc/factory/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/ioc/factory/FactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/ioc/factory/FactoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/异常/捕获异常.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/工厂模式/FactoryPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/工厂模式/FactoryPatternDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/pinduoduo/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/pinduoduo/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/pinduoduo/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beike/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/beike/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beike/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/beike/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beike/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/beike/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beike/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/beike/Main4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/StringvalueOf和IntegertoString的区别/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/StringvalueOf和IntegertoString的区别/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/equals和hashcode方法/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/equals和hashcode方法/MyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/ioc/factory/BeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/ioc/factory/BeanFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/ConstructorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/ConstructorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/reflectDemo/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/三点参数/Demo3PointParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/三点参数/Demo3PointParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/位运算/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/位运算/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第一种成员内部类/Circle$Draw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第一种成员内部类/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第一种成员内部类/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第三种匿名内部类/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第三种匿名内部类/MyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第二种局部内部类/Man$Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第二种局部内部类/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第二种局部内部类/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第四种静态内部类/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第四种静态内部类/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/第四种静态内部类/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/享元模式/享元模式1/EmployeeReportManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/享元模式/享元模式1/EmployeeReportManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/享元模式/享元模式1/FinancialReportManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/享元模式/享元模式1/FinancialReportManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/工厂模式/my.uml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/工厂模式/my.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/问题" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/问题" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/wangyi/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inter/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/a/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Floor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/beike/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/beike/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/three/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/three/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/$31$ClassLoader/MyClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/classLoader/MyClassLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/$31$ClassLoader/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/classLoader/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/$31$ClassLoader/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/classLoader/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/OrderTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum/OrderTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum/Test2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum/Test2/Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum/Test2/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/Test2/SeasonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum/Test2/SeasonEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum枚举对象/WeekDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum/WeekDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/JDBC连接数据库/databaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/JDBC连接数据库/databaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/other/dynamicProxy/cglib/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/dynamicProxy/cglib/Programmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo1/Developer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo1/LifeSkills.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo1/DynamicProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo1/DynamicProxyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo1/JavaDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo1/JavaDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/ioc/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/ioc/factory/BeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/ioc/factory/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/ioc/factory/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/equals和hashcode方法/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/equalsPKhashcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/equals和hashcode方法/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/equalsPKhashcode/MyObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/other/reflectDemo/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/reflectDemo/ConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/异常/捕获异常.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/exception/catchException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/设计模式/原型模式/原型模式1/ShapeCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/原型模式/原型模式1/ShapeCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/设计模式/工厂模式/FactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/工厂模式/FactoryPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pinduoduo/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/pinduoduo/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pinduoduo/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/pinduoduo/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pinduoduo/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/pinduoduo/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/reflectDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/reflectDemo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/reflectDemo/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/reflectDemo/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/reflectDemo/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/reflectDemo/config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/reflectDemo/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/reflectDemo/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/三点参数/Demo3PointParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/三点参数/Demo3PointParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/位运算/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/位运算/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/第一种成员内部类/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/innerClass/nonStaticInnerClass/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/第一种成员内部类/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/innerClass/nonStaticInnerClass/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/第三种匿名内部类/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/innerClass/anonymousInnerClass/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/第三种匿名内部类/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/innerClass/anonymousInnerClass/MyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/第二种局部内部类/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/innerClass/localInnerClass/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/第四种静态内部类/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/innerClass/staticInnerClass/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/享元模式/享元模式1/EmployeeReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/享元模式/享元模式1/EmployeeReportManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/享元模式/享元模式1/FinancialReportManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/享元模式/享元模式1/FinancialReportManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/问题" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/问题" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wangyi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/wangyi/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,14 +168,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Num</find>
-      <find>NaN</find>
-      <find>compareTo</find>
-      <find>return</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -169,13 +227,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RegExpTest">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.failfast.Demo" />
+  <component name="RunManager" selected="Application.Main1 (1)">
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.kuaishou.Main1" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.failfast.*" />
+          <option name="PATTERN" value="algorithm.kuaishou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.yang.Main2" />
+    <configuration name="Main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.jd.Main11" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.yang.*" />
+          <option name="PATTERN" value="algorithm.jd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTimerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.timedtask.MyTimerTask" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.kuaishou.Main2" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.timedtask.*" />
+          <option name="PATTERN" value="algorithm.kuaishou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.yang.RectNum" />
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.kuaishou.Main3" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.yang.*" />
+          <option name="PATTERN" value="algorithm.kuaishou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegExpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.RegExpTest" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.beiketwo.Main3" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.*" />
+          <option name="PATTERN" value="algorithm.beiketwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +294,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyTimerTask" />
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.RectNum" />
-      <item itemvalue="Application.Main2 (1)" />
-      <item itemvalue="Application.RegExpTest" />
+      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.Main11" />
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main3 (1)" />
+      <item itemvalue="Application.Main1 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RegExpTest" />
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.RectNum" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.MyTimerTask" />
+        <item itemvalue="Application.Main1 (1)" />
+        <item itemvalue="Application.Main3 (1)" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main11" />
+        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +350,7 @@
       <workItem from="1564304668861" duration="6523000" />
       <workItem from="1564662168372" duration="6601000" />
       <workItem from="1564730425832" duration="13796000" />
-      <workItem from="1565261026923" duration="66348000" />
+      <workItem from="1565261026923" duration="117445000" />
     </task>
     <servers />
   </component>
@@ -345,13 +403,13 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HeapSort.java</url>
+          <url>file://$PROJECT_DIR$/src/inter/HeapSort.java</url>
           <line>40</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>165</line>
+          <line>177</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -380,12 +438,12 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/wangyi/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/algorithm/wangyi/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/wangyi/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/algorithm/wangyi/Main.java</url>
           <line>19</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
@@ -393,6 +451,66 @@
           <url>file://$PROJECT_DIR$/src/algorithm/three/Main2.java</url>
           <line>34</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/bilibili/Main2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/wanmeishijie/Main1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/wanmeishijie/Main2.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/wanmeishijie/Main2.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/beiketwo/Main2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/beiketwo/Main2.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/beiketwo/Main4.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/beiketwo/Main4.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/beiketwo/Main3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/jd/Main11.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/kuaishou/Main3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/kuaishou/Main1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

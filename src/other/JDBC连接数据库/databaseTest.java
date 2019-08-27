@@ -18,11 +18,11 @@ public class databaseTest {
             //STEP 2: Register JDBC driver
             Class.forName(JDBC_DRIVER);//注册JDBC驱动程序
 
-            //STEP 3: Open a connection 打开一个连接
+            //STEP 3: Open algorithm.a connection 打开一个连接
             System.out.println("Connecting to database...");
             conn = DriverManager.getConnection(DB_URL,USER,PASS);
 
-            //STEP 4: Execute a query执行一个查询
+            //STEP 4: Execute algorithm.a query执行一个查询
             System.out.println("Creating statement...");
             stmt = conn.createStatement();
             String sql;

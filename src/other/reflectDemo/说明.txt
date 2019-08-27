@@ -1,1 +1,8 @@
 代码网址： https://blog.csdn.net/lililuni/article/details/83449088
+ConstructorTest-根据类名，利用反射机制，获取一个类的各种构造方法
+GenericityTest- 实例化一个对象集合，利用反射，获取add方法，越过泛型检查
+Main-根据配置文件config，执行特定的类的方法，这样不用修改代码，直接修改配置文件
+MainTest-根据类名，利用反射机制，创建对象并执行对象的main方法
+MethodTest-new 一个对象，获取对象的所有方法，并执行方法
+ObjectTest-获取类兑现 Class的三种方法
+ParaTest-new 一个对象，获取该对象的字段值，如name="li" 字段值是li

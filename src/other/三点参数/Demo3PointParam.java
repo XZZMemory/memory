@@ -31,7 +31,7 @@ public class Demo3PointParam {
         demo.test();//可以使用，但不会输出任何数据
         demo.test(null);//数据不存在
         demo.test(new String[]{"111", "222", "333"});
-        demo.test("a", "b");
+        demo.test("algorithm/a", "b");
         demo.test2();
         System.out.println(demo.test2(null));
         System.out.println(demo.test2(22));

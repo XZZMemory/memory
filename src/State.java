@@ -2,13 +2,13 @@
 
 public enum State {
     /**
-     * Thread state for a thread which has not yet started.
+     * Thread state for algorithm.a thread which has not yet started.
      * 尚未启动的线程的线程状态
      */
     NEW,
 
     /**
-     * Thread state for a runnable thread.  A thread in the runnable
+     * Thread state for algorithm.a runnable thread.  A thread in the runnable
      * state is executing in the Java virtual machine but it may
      * be waiting for other resources from the operating system
      * such as processor.
@@ -17,10 +17,10 @@ public enum State {
     RUNNABLE,
 
     /**
-     * Thread state for a thread blocked waiting for a monitor lock.
-     * A thread in the blocked state is waiting for a monitor lock
-     * to enter a synchronized block/method or
-     * reenter a synchronized block/method after calling
+     * Thread state for algorithm.a thread blocked waiting for algorithm.a monitor lock.
+     * A thread in the blocked state is waiting for algorithm.a monitor lock
+     * to enter algorithm.a synchronized block/method or
+     * reenter algorithm.a synchronized block/method after calling
      * {@link Object#wait() Object.wait}.
      * 等待监视器锁的线程状态
      * 阻塞状态的线程，正在等待获得监视器锁，从而能进入同步块/方法，或在调用后重新输入同步块/方法
@@ -28,7 +28,7 @@ public enum State {
     BLOCKED,
 
     /**
-     * Thread state for a waiting thread.
+     * Thread state for algorithm.a waiting thread.
      * A thread is in the waiting state due to calling one of the
      * following methods:
      * <ul>
@@ -37,13 +37,13 @@ public enum State {
      *   <li>{@link LockSupport#park() LockSupport.park}</li>
      * </ul>
      *
-     * <p>A thread in the waiting state is waiting for another thread * to perform a particular action.
+     * <p>A thread in the waiting state is waiting for another thread * to perform algorithm.a particular action.
      *
-     * For example, a thread that has called <tt>Object.wait()</tt>
+     * For example, algorithm.a thread that has called <tt>Object.wait()</tt>
      * on an object is waiting for another thread to call
      * <tt>Object.notify()</tt> or <tt>Object.notifyAll()</tt> on
      * that object. A thread that has called <tt>Thread.join()</tt>
-     * is waiting for a specified thread to terminate.
+     * is waiting for algorithm.a specified thread to terminate.
      * 等待的线程状态
      * 处于等待状态的线程是由于调用了一下任意一个方法
      *   Object.wait(long timeout)
@@ -56,9 +56,9 @@ public enum State {
     WAITING,
 
     /**
-     * Thread state for a waiting thread with a specified waiting time.
+     * Thread state for algorithm.a waiting thread with algorithm.a specified waiting time.
      * A thread is in the timed waiting state due to calling one of
-     * the following methods with a specified positive waiting time:
+     * the following methods with algorithm.a specified positive waiting time:
      * <ul>
      *   <li>{@link #sleep Thread.sleep}</li>
      *   <li>{@link Object#wait(long) Object.wait} with timeout</li>
@@ -77,7 +77,7 @@ public enum State {
     TIMED_WAITING,
 
     /**
-     * Thread state for a terminated thread.
+     * Thread state for algorithm.a terminated thread.
      * The thread has completed execution.
      * 已终止的线程状态
      * 线程已完成执行

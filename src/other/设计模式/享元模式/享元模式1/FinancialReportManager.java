@@ -8,6 +8,6 @@ public class FinancialReportManager implements IReportManager {
     }
     @Override
     public String creatReport() {
-        return "This is a financial report;"+tenantId;
+        return "This is algorithm.a financial report;"+tenantId;
     }
 }

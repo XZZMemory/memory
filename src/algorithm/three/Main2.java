@@ -4,18 +4,18 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main2 {
-    //n个数，m进制
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        int m = in.nextInt();
-        int[] data1 = new int[n];
-        int[] data2 = new int[n];
-        for (int i = 0; i < n; i++) {
-            data1[i] = in.nextInt();
-        }
-        for (int i = 0; i < n; i++) {
-            data2[i] = in.nextInt();
+                //n个数，m进制
+                public static void main(String[] args) {
+                    Scanner in = new Scanner(System.in);
+                    int n = in.nextInt();
+                    int m = in.nextInt();
+                    int[] data1 = new int[n];
+                    int[] data2 = new int[n];
+                    for (int i = 0; i < n; i++) {
+                        data1[i] = in.nextInt();
+                    }
+                    for (int i = 0; i < n; i++) {
+                        data2[i] = in.nextInt();
         }
         in.close();
         print(n, m, data1, data2);
