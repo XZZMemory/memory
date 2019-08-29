@@ -1,6 +1,7 @@
 package other.jdk8.stream;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -21,8 +22,12 @@ public class Test {
         // 测试 Sort (排序)
         stringList
                 .stream()
-                .sorted()
-                .filter((s) -> s.startsWith("a"))
+                .sorted(new Comparator<String>() {
+                    @Override
+                    public int compare(String o1, String o2) {
+                        return o2.compareTo(o1);
+                    }
+                })
                 .forEach(System.out::println);// aaa1 aaa2
         // 测试 Filter(过滤)
         stringList.stream()

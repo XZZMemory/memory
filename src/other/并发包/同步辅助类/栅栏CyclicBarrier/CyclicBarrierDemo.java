@@ -12,7 +12,7 @@ public class CyclicBarrierDemo {
         worker1.start();
         worker2.start();
         worker3.start();
-        System.out.println("Test thread end!");
+        System.out.println("Demo thread end!");
 
     }
 }

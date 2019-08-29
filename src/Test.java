@@ -14,7 +14,7 @@ public class Test {
         /*
         * int[] nums1 = new int[]{1, 3};
         int[] nums2 = new int[]{2, 4, 5, 6, 7, 8, 9, 10};
-        Test test = new Test();
+        Demo test = new Demo();
         System.out.println(test.findMedianSortedArrays(nums1, nums2));
         System.out.println();
         int[] nums = {16, 7, 3, 20, 17, 8};
@@ -26,7 +26,7 @@ public class Test {
         for (int num : nums) {
             System.out.print(num + " ");
         }
-        Test test = new Test();
+        Demo test = new Demo();
 
         System.out.println("***************");
         System.out.println(test.times2(10));*/

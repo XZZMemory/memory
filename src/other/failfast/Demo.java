@@ -13,7 +13,7 @@ public class Demo {
         Thread thread2 = new Thread(new Runnable() {
             @Override
             public void run() {
-                System.out.println("thread 2开始");
+                System.out.println("thread 2开始执行");
                 set.add(100);
             }
         });
@@ -24,14 +24,16 @@ public class Demo {
                 System.out.println(iterator.next());
                 thread2.start();
                 try {
+                    System.out.println("线程1被线程2阻塞");
                     thread2.join();
                 } catch (Exception e) {
                     e.printStackTrace();
+                } finally {
+                    System.out.println("线程2执行完毕");
                 }
                 int i = 0;
                 while (iterator.hasNext()) {
                     System.out.println(i + "  " + iterator.next());
-
                     i++;
                 }
             }

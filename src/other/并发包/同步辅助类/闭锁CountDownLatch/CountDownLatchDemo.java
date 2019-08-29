@@ -22,6 +22,6 @@ public class CountDownLatchDemo {
         {
             e.printStackTrace();
         }
-        System.out.println("Test thread end");
+        System.out.println("Demo thread end");
     }
 }

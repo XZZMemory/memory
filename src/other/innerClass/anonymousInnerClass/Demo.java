@@ -11,7 +11,7 @@ public class Demo {
         Person p = new Person() {
             @Override
             public void eat() {
-                System.out.println("eating...");
+                System.out.println("first eating...");
             }
         };
         p.eat();
@@ -19,7 +19,7 @@ public class Demo {
         Person pp = new Person() {
             @Override
             public void eat() {
-                System.out.println("eating...");
+                System.out.println("second eating...");
             }
         };
         pp.eat();
