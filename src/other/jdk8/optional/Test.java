@@ -1,4 +1,4 @@
-package other.optionalTest;
+package other.jdk8.optional;
 
 import java.util.Optional;
 
