@@ -1,6 +1,6 @@
 package other.三点参数;
 
-public class Demo3PointParam {
+public class Demo {
     private void test(String... strings) {
         if (strings != null) {
             for (int i = 0; i < strings.length; i++) {
@@ -27,7 +27,7 @@ public class Demo3PointParam {
     }
 
     public static void main(String[] args) {
-        Demo3PointParam demo = new Demo3PointParam();
+        Demo demo = new Demo();
         demo.test();//可以使用，但不会输出任何数据
         demo.test(null);//数据不存在
         demo.test(new String[]{"111", "222", "333"});

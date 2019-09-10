@@ -4,7 +4,7 @@ java中线程安全的原子类的自增，分布式线上换成redis的自增�
 如何实现平衡
 线程的几种状态
 Thread 枚举类State，有6个值，NEW runnable、blocked、waiting、time_waiting、terminated
-public enum State {
+public enum other.多线程.State {
         /**
          * Thread state for algorithm.a thread which has not yet started.
          * 尚未启动的线程的线程状态

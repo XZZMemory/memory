@@ -5,56 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gc.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/Test6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/aiqiyi/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/aiqiyi/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/sougou/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/sougou/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiaohongshu/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiaohongshu/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiaohongshu/Main3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiaohongshu/Main4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiaohongshu/Main4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiecheng/Main$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiecheng/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiecheng/second/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiecheng/third/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/collectionTest/map/linkedHashMapDemo/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/demo/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/demo/Father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/demo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/other/collection/treemap/Demo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/other/collection/treemap/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/other/collection/treemap/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/other/gc/ReferenceCountingGC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/SynchronizedDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/aiqiyi/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/aiqiyi/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/sougou/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/sougou/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiaohongshu/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiaohongshu/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiaohongshu/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiaohongshu/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiecheng/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiecheng/second/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiecheng/third/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collectionTest/map/linkedHashMapDemo/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/collection/treemap/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/gc/ReferenceCountingGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/锁Lock/SynchronizedDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/锁Lock/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/对象创建的方法/clone/说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/排序算法/SelectSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object.txt" beforeDir="false" afterPath="$PROJECT_DIR$/object.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/memory/META-INF/memory.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/META-INF/memory.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/GC回收/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/gc/MyObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/SerializableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/SerializableDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/GC回收/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/gc/MyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/StringvalueOf和IntegertoString的区别/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/StringvalueOf和IntegertoString的区别/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/failfast/Demo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/failfast/Demo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/三点参数/Demo3PointParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/位运算/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/多线程/Synchronized测试/sy$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/多线程/Synchronized测试/sy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/多线程/调用start方法和调用run方法的区别/RunnerImplements1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/多线程/调用start方法和调用run方法的区别/RunnerImplements1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/多线程/调用start方法和调用run方法的区别/RunnerImplements2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/多线程/调用start方法和调用run方法的区别/RunnerImplements2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/问题" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/问题" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/多线程/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/三点参数/Demo3PointParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/三点参数/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/多线程/Synchronized测试/sy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/多线程/Synchronized测试/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/多线程/调用start方法和调用run方法的区别/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/多线程/调用start方法和调用run方法的区别/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/排序算法/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/排序算法/堆排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/堆排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/排序算法/直接插入排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/直接插入排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/问题" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/问题" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,21 +138,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="GCTest" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="other.gc.ReferenceCountingGC" />
-      <module name="memory" />
-      <option name="VM_PARAMETERS" value="-XX:+PrintGCDetails -Xloggc:gc.log -XX:+PrintGCTimeStamps  " />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.Main" />
+  <component name="RunManager" selected="Application.DeserializeDemo">
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.三点参数.Demo" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.*" />
+          <option name="PATTERN" value="other.三点参数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.sougou.Main1" />
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.多线程.Synchronized测试.Demo" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.sougou.*" />
+          <option name="PATTERN" value="other.多线程.Synchronized测试.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.aiqiyi.Main1" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.designpatterns.单例模式.使用静态内部类1.Demo" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.aiqiyi.*" />
+          <option name="PATTERN" value="other.designpatterns.单例模式.使用静态内部类1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.aiqiyi.Main2" />
+    <configuration name="DeserializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.序列化与反序列化.DeserializeDemo" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.aiqiyi.*" />
+          <option name="PATTERN" value="other.序列化与反序列化.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,28 +191,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test6" />
+    <configuration name="SerializableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.序列化与反序列化.SerializableDemo" />
       <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.序列化与反序列化.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.多线程.调用start方法和调用run方法的区别.Test" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.多线程.调用start方法和调用run方法的区别.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GCTest" />
-      <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.Main2" />
-      <item itemvalue="Application.Main1 (1)" />
-      <item itemvalue="Application.Test6" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Demo (3)" />
+      <item itemvalue="Application.Demo (4)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.SerializableDemo" />
+      <item itemvalue="Application.DeserializeDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Main1 (1)" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.DeserializeDemo" />
+        <item itemvalue="Application.SerializableDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Demo (4)" />
+        <item itemvalue="Application.Demo (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -252,9 +243,6 @@
         </treeState>
       </serviceView>
     </option>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -298,8 +286,6 @@
       <workItem from="1564730425832" duration="13796000" />
       <workItem from="1565261026923" duration="118128000" />
       <workItem from="1566903449202" duration="2951000" />
-      <workItem from="1567523347195" duration="33490000" />
-      <workItem from="1568117580128" duration="58000" />
     </task>
     <servers />
   </component>
@@ -358,7 +344,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Test.java</url>
-          <line>177</line>
+          <line>146</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -461,108 +447,8 @@
           <line>14</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiaohongshu/Main1.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiaohongshu/Main2.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiaohongshu/Main3.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiaohongshu/Main3.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiaohongshu/Main3.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiaohongshu/Main4.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiaohongshu/Main4.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiecheng/Main.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="90" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiecheng/Main.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiecheng/Main.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/xiecheng/second/Main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/collectionTest/map/linkedHashMapDemo/Demo.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/collectionTest/map/linkedHashMapDemo/Demo.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/collectionTest/map/linkedHashMapDemo/Demo.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/aiqiyi/Main1.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/aiqiyi/Main1.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="114" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/aiqiyi/Main2.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/sougou/Main1.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test6.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="nextLine" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
