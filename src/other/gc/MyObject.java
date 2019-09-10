@@ -1,4 +1,4 @@
-package other.GC回收;
+package other.gc;
 
 public class MyObject {
     protected void finalize() throws Throwable
