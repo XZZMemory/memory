@@ -7,6 +7,9 @@ import java.util.Collections;
  */
 public class Test {
     public static void main(String[] args) {
+        byte aaa = 77;
+        String str = String.valueOf(aaa);
+        System.out.println("str:" + str);
         String aa = "23";
         System.out.println(aa.intern());
         System.out.println("#######");

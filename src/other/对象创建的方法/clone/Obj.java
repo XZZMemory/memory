@@ -14,6 +14,7 @@ public class Obj implements Cloneable {
         return list;
     }
 
+
     public Obj getObject() {
         return this;
     }
