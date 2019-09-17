@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiaomi/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/xiaomi/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/duxiaoman/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/duxiaoman/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/t58/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/t58/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/t58/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/yuanfudao/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/yuanfudao/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/exception/catchException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/exception/catchException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/对象创建的方法/clone/Obj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/对象创建的方法/clone/Obj.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/exception/catchException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/exception/catchException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/对象创建的方法/clone/Obj.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/对象创建的方法/clone/Obj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/algorithm/xiaomi/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiaomi/Main2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,13 +125,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.对象创建的方法.clone.CloneDemo" />
+  <component name="RunManager" selected="Application.Main1 (2)">
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.duxiaoman.Main1" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.对象创建的方法.clone.*" />
+          <option name="PATTERN" value="algorithm.duxiaoman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeserializeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.序列化与反序列化.DeserializeDemo" />
+    <configuration name="Main1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.yuanfudao.Main1" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.序列化与反序列化.*" />
+          <option name="PATTERN" value="algorithm.yuanfudao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.xiaomi.Main2" />
+    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.t58.Main2" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.xiaomi.*" />
+          <option name="PATTERN" value="algorithm.t58.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.序列化与反序列化.SerializableDemo" />
+    <configuration name="Main2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.yuanfudao.Main2" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.序列化与反序列化.*" />
+          <option name="PATTERN" value="algorithm.yuanfudao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="catchException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.exception.catchException" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.t58.Main3" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.exception.*" />
+          <option name="PATTERN" value="algorithm.t58.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,19 +192,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SerializableDemo" />
-      <item itemvalue="Application.DeserializeDemo" />
-      <item itemvalue="Application.CloneDemo" />
-      <item itemvalue="Application.catchException" />
-      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main2 (1)" />
+      <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.Main1 (1)" />
+      <item itemvalue="Application.Main2 (2)" />
+      <item itemvalue="Application.Main1 (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.catchException" />
-        <item itemvalue="Application.CloneDemo" />
-        <item itemvalue="Application.DeserializeDemo" />
-        <item itemvalue="Application.SerializableDemo" />
+        <item itemvalue="Application.Main1 (2)" />
+        <item itemvalue="Application.Main2 (2)" />
+        <item itemvalue="Application.Main1 (1)" />
+        <item itemvalue="Application.Main2 (1)" />
+        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +262,7 @@
       <workItem from="1566903449202" duration="2951000" />
       <workItem from="1568117857112" duration="1827000" />
       <workItem from="1568122889216" duration="897000" />
-      <workItem from="1568127700507" duration="5094000" />
+      <workItem from="1568127700507" duration="14518000" />
     </task>
     <servers />
   </component>
@@ -441,6 +438,21 @@
           <url>file://$PROJECT_DIR$/src/algorithm/xiaomi/Main2.java</url>
           <line>48</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/t58/Main2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/yuanfudao/Main2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/yuanfudao/Main1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
