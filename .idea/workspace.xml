@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/duxiaoman/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/duxiaoman/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/t58/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/t58/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/t58/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/yuanfudao/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/yuanfudao/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/baidu/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/baidu/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/set.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/algorithm/xiaomi/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/algorithm/xiaomi/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/Test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/Test6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test6.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,26 +122,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main1 (2)">
+  <component name="RunManager" selected="Application.Main3 (1)">
     <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.duxiaoman.Main1" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithm.duxiaoman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.yuanfudao.Main1" />
-      <module name="memory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.yuanfudao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +150,11 @@
       </method>
     </configuration>
     <configuration name="Main2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.yuanfudao.Main2" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.baidu.Main2" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.yuanfudao.*" />
+          <option name="PATTERN" value="algorithm.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,33 +162,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.t58.Main3" />
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.baidu.Main3" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.t58.*" />
+          <option name="PATTERN" value="algorithm.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test6" />
+      <module name="memory" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Main2 (1)" />
-      <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Main1 (1)" />
+      <item itemvalue="Application.Test6" />
       <item itemvalue="Application.Main2 (2)" />
-      <item itemvalue="Application.Main1 (2)" />
+      <item itemvalue="Application.Main3 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main1 (2)" />
+        <item itemvalue="Application.Main3 (1)" />
         <item itemvalue="Application.Main2 (2)" />
+        <item itemvalue="Application.Test6" />
         <item itemvalue="Application.Main1 (1)" />
         <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +253,10 @@
       <workItem from="1566903449202" duration="2951000" />
       <workItem from="1568117857112" duration="1827000" />
       <workItem from="1568122889216" duration="897000" />
-      <workItem from="1568127700507" duration="14518000" />
+      <workItem from="1568127700507" duration="15909000" />
+      <workItem from="1568723469372" duration="443000" />
+      <workItem from="1568896176059" duration="364000" />
+      <workItem from="1569324657711" duration="4061000" />
     </task>
     <servers />
   </component>
@@ -453,6 +447,21 @@
           <url>file://$PROJECT_DIR$/src/algorithm/yuanfudao/Main1.java</url>
           <line>16</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/baidu/Main2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/baidu/Main3.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/baidu/Main3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

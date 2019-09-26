@@ -1,9 +1,12 @@
 public class Test6 {
-
     public static void main(String[] args) {
         int[] dat = {3, 1, 4};
-        double a=5;
-        System.out.println(a/2);
+        double a = 5;
+        System.out.println(a / 2);
+        int aaa = 012;
+        int bbb = 0x12;
+        System.out.println(aaa);
+        System.out.println(bbb);
         //findInt(dat);
     }
 
@@ -21,7 +24,7 @@ public class Test6 {
                 //出现了 负数、乱序和重复的情况（？）
                 arr[l] = arr[--r];//把最后位置的数放在位置l上检查
             } else {//发现了[l+1,r]范围的数，并且未发现重复
-                swap(arr, l, arr[l]-1);//arr[l]应该放到arr[l]-1位置上，交换（？）
+                swap(arr, l, arr[l] - 1);//arr[l]应该放到arr[l]-1位置上，交换（？）
             }
 
         }
