@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/ListsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/datetest/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/泛型/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/META-INF/memory.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/algorithm/baidu/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/algorithm/baidu/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/exception/catchException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/exception/catchException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/failfast/Demo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/failfast/Demo$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/DeserializeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/有三个线程让他们按序循环不停的执行/使用lock和condition/LockPrint$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/类加载器/TestClassLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/类加载器/TestClassLoader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/例子2tryLock的使用方法/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/正确的Lock使用/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantLock/错误的Lock使用/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/锁Lock/ReentrantReadWriteLock/使用读写锁/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/baidu/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/baidu/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-453">
+            <state>
               <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
@@ -130,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="70">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -237,7 +220,7 @@
     <property name="SearchEverywhereHistoryKey" value="Byte&#9;PSI&#9;JAVA://java.lang.Byte" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588864669240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588904598372" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/.." />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -420,15 +403,15 @@
       <workItem from="1587900669430" duration="1944000" />
       <workItem from="1588131516561" duration="2123000" />
       <workItem from="1588146401284" duration="610000" />
-      <workItem from="1588847534389" duration="1354000" />
+      <workItem from="1588847534389" duration="4147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8843000" />
+    <option name="totallyTimeSpent" value="11636000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.113300495" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" sideWeight="0.8866995" side_tool="true" weight="0.24962178" />
@@ -439,14 +422,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.5027322" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49425286" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49425286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32840723" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.67651886" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5714286" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32840723" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -476,7 +459,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
-              <option name="COLUMN_ORDER" />
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -701,7 +691,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ListTest.java</url>
-          <line>11</line>
+          <line>12</line>
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
@@ -839,15 +829,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453">
+        <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="70">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
