@@ -45,13 +45,13 @@ public class Main3 {
         result[1][1] = 1;
         for (int j = 1; j < result[0].length; j++) {
             // 求最大子序列长度
-            int currentNode = result[i][0];
+            int currentNode = result[j][0];
             for (int k = 0; k < j; k++) {
                 // 节点连通，且权值小，则通
                 int node = result[k][0];
                 // 连通、有线、权值小
                 if (result[k][1] == 1 && lines.get(node).contains(currentNode) && result[k][3] < result[currentNode][3]) {
-                    result[k][2] = result[i][2] > result[k][2] + 1 ? result[i][2] : result[k][2] + 1;
+                    result[k][2] = result[j][2] > result[k][2] + 1 ? result[j][2] : result[k][2] + 1;
                     maxLength = maxLength > result[k][2] ? maxLength : result[k][2];
                 }
 

@@ -22,6 +22,12 @@ public class Demo {
                 System.out.println("second eating...");
             }
         };
+        Person P2 = new Person() {
+            @Override
+            public void eat() {
+                System.out.println("third eating....");
+            }
+        };
         pp.eat();
     }
 }

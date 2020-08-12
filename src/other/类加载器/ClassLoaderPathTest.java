@@ -89,4 +89,22 @@ public class ClassLoaderPathTest {
 
     }
 
+
+    //递归
+    public static int recursionBinarySearch(int[] arr, int key, int low, int high) {
+        if (key < arr[low] || key > arr[high] || low > high) {
+            return -1;
+        }
+        int middle = (low + high) / 2;
+        if (arr[middle] > key) {
+            //比关键字大则在左区域
+            return recursionBinarySearch(arr, key, low, middle - 1);
+        } else if (arr[middle] < key) {
+            //比关键字小则在右区域
+            return recursionBinarySearch(arr, key, middle + 1, high);
+        } else {
+            return middle;
+        }
+    }
+
 }

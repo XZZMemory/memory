@@ -7,6 +7,9 @@ import java.util.Set;
 
 public class Demo {
     public static void main(String[] args) {
+
+        String str=null;//"yu ";
+
         LinkedHashMap<String, String> linkedHashMap = new LinkedHashMap<>();
         linkedHashMap.put("name1", "josan1");
         linkedHashMap.put("name2", "josan2");
