@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/other/集合/集合使用/MyObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other/集合/集合使用/Usage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/META-INF/memory.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/algorithm/baidu/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/algorithm/baidu/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/collectionTest/map/linkedHashMapDemo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/collectionTest/map/linkedHashMapDemo/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/JDBC连接数据库/databaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/JDBC连接数据库/databaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/exception/TryCatchFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/exception/TryCatchFinally.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/jdk8/mai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/jdk8/mai.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/SerializableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/序列化与反序列化/SerializableDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/baidu/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/baidu/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collectionTest/map/linkedHashMapDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionTest/map/linkedHashMapDemo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/innerClass/anonymousInnerClass/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/innerClass/anonymousInnerClass/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/jdk8/mai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/jdk8/mai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/类加载器/ClassLoaderPathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/类加载器/ClassLoaderPathTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglib/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,29 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/pojo/Hero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstructorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/ConstructorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GenericityTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/GenericityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,7 +65,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
+            <state relative-caret-position="76">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -102,7 +74,7 @@
       <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7">
+            <state relative-caret-position="76">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -111,8 +83,8 @@
       <file leaf-file-name="MethodTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/MethodTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state relative-caret-position="266">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -120,13 +92,13 @@
       <file leaf-file-name="ObjectTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/ObjectTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
+            <state relative-caret-position="285">
               <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/StringvalueOf和IntegertoString的区别/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -135,10 +107,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Usage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/other/集合/集合使用/Usage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/集合/集合使用/MyObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="32243">
               <caret line="1780" column="18" selection-start-line="1780" selection-start-column="18" selection-end-line="1780" selection-end-column="18" />
             </state>
           </provider>
@@ -178,6 +171,9 @@
         <option value="$PROJECT_DIR$/src/other/类加载器/ClassLoaderPathTest.java" />
         <option value="$PROJECT_DIR$/src/other/callback/说明.txt" />
         <option value="$PROJECT_DIR$/src/other/innerClass/anonymousInnerClass/Demo.java" />
+        <option value="$PROJECT_DIR$/src/other/集合/Usage/集合使用.java" />
+        <option value="$PROJECT_DIR$/src/other/集合/集合使用/集合使用.java" />
+        <option value="$PROJECT_DIR$/src/other/集合/集合使用/Usage.java" />
       </list>
     </option>
   </component>
@@ -186,6 +182,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -201,7 +204,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,109 +263,6 @@
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="Enum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="Enum" type="462c0819:PsiDirectoryNode" />
-              <item name="Test2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="equalsPKhashcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="failfast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="gc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
-              <item name="anonymousInnerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
-              <item name="localInnerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
-              <item name="nonStaticInnerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="Java语法糖" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="JDBC连接数据库" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="reflectDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="reflectDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
               <item name="StringvalueOf和IntegertoString的区别" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -385,15 +284,22 @@
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="泛型" type="462c0819:PsiDirectoryNode" />
-              <item name="GenericTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="类加载器" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="memory" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="类加载器" type="462c0819:PsiDirectoryNode" />
+              <item name="集合" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="集合" type="462c0819:PsiDirectoryNode" />
+              <item name="集合使用" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="memory" type="b2602c69:ProjectViewProjectNode" />
@@ -439,6 +345,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -495,23 +402,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.Usage">
     <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.reflectDemo.ConstructorTest" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="other.reflectDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.collection.treemap.Demo" />
-      <module name="memory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.collection.treemap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -546,20 +443,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Usage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.集合.集合使用.Usage" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.集合.集合使用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.Demo (1)" />
       <item itemvalue="Application.DynamicProxyDemo" />
       <item itemvalue="Application.ConstructorTest" />
       <item itemvalue="Application.GenericityTest" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Usage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Usage" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.GenericityTest" />
         <item itemvalue="Application.ConstructorTest" />
         <item itemvalue="Application.DynamicProxyDemo" />
-        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -626,43 +533,43 @@
       <workItem from="1592818812668" duration="370000" />
       <workItem from="1592829202907" duration="2097000" />
       <workItem from="1594808379495" duration="2423000" />
+      <workItem from="1603339944933" duration="548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8757000" />
+    <option name="totallyTimeSpent" value="9305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44827586" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27382874" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27786753" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.50344825" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -909,8 +816,19 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/集合/集合使用/Usage.java</url>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/集合/集合使用/Usage.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -942,20 +860,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/other/classLoader/MyClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/classLoader/MyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -974,10 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="2992" column="25" selection-start-line="2992" selection-start-column="25" selection-end-line="2992" selection-end-column="25" />
-          <folding>
-            <element signature="e#117893#117894#0" expanded="true" />
-            <element signature="e#117955#117956#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -999,10 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-160">
           <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1154,10 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1247,42 +1139,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/pojo/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64">
+        <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/ConstructorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="684">
           <caret line="36" column="19" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="32243">
           <caret line="1780" column="18" selection-start-line="1780" selection-start-column="18" selection-end-line="1780" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/GenericityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
+        <state relative-caret-position="76">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
+        <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
@@ -1296,14 +1188,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/MethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="266">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/reflectDemo/ObjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
+        <state relative-caret-position="285">
           <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="41" />
         </state>
       </provider>
@@ -1312,6 +1204,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/集合/集合使用/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/集合/集合使用/Usage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
