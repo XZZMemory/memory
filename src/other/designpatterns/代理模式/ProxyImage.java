@@ -1,4 +1,4 @@
-package other.designpatterns.代理模式.代理模式1;
+package other.designpatterns.代理模式;
 
 /**
  * created by memory

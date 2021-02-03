@@ -1,4 +1,4 @@
-package other.designpatterns.原型模式.原型模式1;
+package other.designpatterns.原型模式;
 
 /**
  * created by memory
