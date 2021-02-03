@@ -9,7 +9,7 @@ import java.util.Properties;
 public class Main {
     public static void main(String[] args) throws Exception {
 
-        String fileName = "/Users/zhangzhewei/IdeaProjects/memory/src/other/reflectDemo/config.txt";
+        String fileName = "/Users/memory/IdeaProjects/memory/src/other/reflectDemo/config.txt";
         File configFile = new File(fileName);
         Properties properties = new Properties();
         properties.load(new FileInputStream(configFile));

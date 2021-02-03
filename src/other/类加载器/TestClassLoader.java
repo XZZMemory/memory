@@ -28,7 +28,7 @@ public class TestClassLoader extends ClassLoader {
         byte[] data = null;
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         try {
-            File file = new File("/Users/zhangzhewei/IdeaProjects/CodingInterviewGuide/src/other/类加载器/CloneDemo.java");
+            File file = new File("/Users/memory/IdeaProjects/CodingInterviewGuide/src/other/类加载器/CloneDemo.java");
             System.out.println(file.length());
             is = new FileInputStream(file);
             int c = 0;

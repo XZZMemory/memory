@@ -10,7 +10,7 @@ import java.util.Properties;
  */
 public class BeanFactory {
     //config.txt 相当于配置文件 声明bean的文件
-    static final String configPath = "/Users/zhangzhewei/IdeaProjects/memory/src/other/ioc/config.txt";
+    static final String configPath = "/Users/memory/IdeaProjects/memory/src/other/ioc/config.txt";
 
     public static <T> T newInstance(String name) throws Exception {
         File file = new File(configPath);

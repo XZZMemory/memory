@@ -9,7 +9,7 @@ public class MyTest {
     public static void main(String[] args) throws IOException {
         /**读取本地的class文件内字节码，转换成字节码数组*/
         File file = new File(".");
-        InputStream input = new FileInputStream("/Users/zhangzhewei/IdeaProjects/memory/src/other/$31$ClassLoader");
+        InputStream input = new FileInputStream("/Users/memoryIdeaProjects/memory/src/other/$31$ClassLoader");
         byte[] result=new byte[1024];
         int count=input.read(result);
         /**使用自定义的类加载器将 byte字节码数组转换为对应的class文件*/
