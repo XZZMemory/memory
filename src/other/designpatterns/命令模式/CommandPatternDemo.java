@@ -1,21 +1,17 @@
 package other.designpatterns.命令模式;
 
-/**
- * Description: memory
- * Created by xiaozhenzhen001
- * on 2021/3/2
- */
 public class CommandPatternDemo {
     public static void main(String[] args) {
-        Stock abcStock = new Stock();
+        ReceiverStock abcReceiverStock = new ReceiverStock();
 
-        BuyStock buyStockOrder = new BuyStock(abcStock);
-        SellStock sellStockOrder = new SellStock(abcStock);
+        CommandBuy commandBuy = new CommandBuy(abcReceiverStock);
+        CommandSell commandSell = new CommandSell(abcReceiverStock);
 
-        Broker broker = new Broker();
-        broker.takeOrder(buyStockOrder);
-        broker.takeOrder(sellStockOrder);
+        // 使用 Invoker 类来接受并执行命令。
+        Invoker invoker = new Invoker();
+        invoker.takeOrder(commandBuy);
+        invoker.takeOrder(commandSell);
 
-        broker.placeOrders();
+        invoker.placeOrders();
     }
 }

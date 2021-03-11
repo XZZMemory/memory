@@ -1,4 +1,4 @@
-package other.designpatterns.观察者模式.观察者模式2;
+package other.designpatterns.观察者模式;
 
 /**
  * created by memory

@@ -1,14 +1,14 @@
 package other.designpatterns.命令模式.eg2;
 
-public class ConcreteCommand implements Command {
+public class ConcreteCommand2 implements Command {
     private Receiver receiver;
 
-    ConcreteCommand() {
+    ConcreteCommand2() {
         receiver = new Receiver();
     }
 
     @Override
     public void execute() {
-        receiver.action();
+        receiver.action2();
     }
 }

@@ -37,7 +37,7 @@ public enum State {
      *   <li>{@link LockSupport#park() LockSupport.park}</li>
      * </ul>
      *
-     * <p>A thread in the waiting state is waiting for another thread * to perform algorithm.a particular action.
+     * <p>A thread in the waiting state is waiting for another thread * to perform algorithm.a particular action1.
      *
      * For example, algorithm.a thread that has called <tt>Object.wait()</tt>
      * on an object is waiting for another thread to call
