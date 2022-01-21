@@ -4,6 +4,7 @@ import java.lang.reflect.Proxy;
 
 public class DynamicProxyDemo {
     public static void main(String[] args) {
+        System.out.println(129/9);
         /**
          *     public static Object newProxyInstance(ClassLoader loader,
          *                                           Class<?>[] interfaces,
@@ -36,6 +37,8 @@ public class DynamicProxyDemo {
                 ((proxy, method, args1)
                         -> {
                     System.out.println("method:" + method);
+//                    System.out.println(javaDeveloper.getName() + " is praying before " + method.getName());
+//                    method.invoke(javaDeveloper);
                     if (method.getName().equals("code")) {
                         System.out.println(javaDeveloper.getName() + " is praying before " + method.getName());
                         method.invoke(javaDeveloper);
