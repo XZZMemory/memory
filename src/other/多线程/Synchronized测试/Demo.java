@@ -12,7 +12,7 @@ public class Demo {
             try {
                 for (int i = 0; i < 10; ++i) {
                     Thread.sleep(1000);
-                    System.out.println(String.format("测试1"+"T3%d", i));
+                    System.out.println(String.format("测试1" + "T " + String.valueOf(i)));
                 }
             } catch (Exception e) {
                 e.printStackTrace();
@@ -21,11 +21,11 @@ public class Demo {
     }
 
     public static void testSynchronized2() {
-        synchronized (new Object()) {
+        synchronized (obj) {
             try {
                 for (int i = 0; i < 10; ++i) {
                     Thread.sleep(1000);
-                    System.out.println("测试2" + String.format("T4%d", i));
+                    System.out.println("测试2" + String.format("T " + String.valueOf(i)));
                 }
             } catch (Exception e) {
                 e.printStackTrace();
@@ -34,15 +34,16 @@ public class Demo {
     }
 
     public static void testSynchronized() {
-        for (int i = 0; i < 10; ++i) {
-            new Thread(new Runnable() {
-                @Override
-                public void run() {
-                    testSynchronized1();
-                    testSynchronized2();
-                }
-            }).start();
-        }
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                testSynchronized1();
+                testSynchronized2();
+            }
+        }).start();
+//        for (int i = 0; i < 10; ++i) {
+//
+//        }
     }
 
 }

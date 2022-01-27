@@ -11,6 +11,7 @@ import java.net.URL;
 public class Test {
 
 
+
     public Test() {
         System.out.println("CloneDemo.class的类加载器是：" + this.getClass().getClassLoader().toString());
     }

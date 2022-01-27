@@ -16,9 +16,11 @@ public class Test {
 
     class Runner1 implements Runnable { // 实现了Runnable接口，jdk就知道这个类是一个线程
         public void run() {
+            System.out.println(Thread.currentThread().getState());
             for (int i = 0; i < 100; i++) {
-                System.out.println("进入Runner1运行状态——————————" + i);
+                System.out.println("进入Runner1运行状态——————————" + i+"  "+Thread.currentThread().getState());
             }
+            System.out.println(Thread.currentThread().getState());
         }
     }
 

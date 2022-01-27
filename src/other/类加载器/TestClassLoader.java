@@ -55,10 +55,16 @@ public class TestClassLoader extends ClassLoader {
         Class clazz;
         try {
             clazz = loader.loadClass("other.类加载器.Test");
-            Object object = clazz.newInstance();
+            Test object = (Test)clazz.newInstance();
+//
+//            object.
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+
+
+
     }
 }
 
