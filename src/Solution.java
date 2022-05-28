@@ -20,25 +20,27 @@ class Solution {
         if (!(sum % k != 0) || sum / k < max) {
             return false;
         }
-        return backtracking(nums, k,k);
+        return backtracking(nums, k, k);
     }
 
-    private boolean backtracking(int[] nums, int k,int target) {
+    private boolean backtracking(int[] nums, int k, int target) {
         int[] formatNum = nums;
         boolean[] used = new boolean[formatNum.length];
         Arrays.sort(formatNum);
         int sum = 0;//组成了多少个子集
         for (int start = 0; start < nums.length; start++) {
-            if (used[start]){
+            if (used[start]) {
 
             }
         }
 
         return false;
     }
-    private boolean findData(int[] nums,int target,int index, boolean[] used){
+
+    private boolean findData(int[] nums, int target, int index, boolean[] used) {
         return false;
     }
+
     /*
     private boolean backtracking(int[] nums, int k, int target, int cur, int start, boolean[] used) {
         // 返回条件
@@ -68,4 +70,28 @@ class Solution {
         boolean[] used = new boolean[nums.length];
         return backtracking(nums, k, sum/k, 0, 0, used);
     }*/
+    public static void main(String[] args) {
+        int[] v = new int[]{0, 1, 4, 3};
+        int[] w = new int[]{0, 2, 3, 4};
+        int N = 3, V = 5;
+        huisu(v, w, N, V);
+        String s="89";
+        s.compareTo("8");
+    }
+
+    private static void huisu(int[] v, int[] w, int N, int V) {
+        int[][] dp = new int[N + 1][V + 1];
+        for (int i = 1; i <= N; i++) {
+            for (int j = 1; j <= V; j++) {
+                if (j >= v[i]) {
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - v[i]] + w[i]);
+
+                } else {
+                    dp[i][j] = dp[i - 1][j];
+
+                }
+            }
+        }
+    }
+
 }

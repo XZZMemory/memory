@@ -15,7 +15,7 @@ public class BillTask extends Thread{
     {
         try {
             System.out.println("市区"+billName+"运算开始");
-            Thread.sleep(1000l);
+            Thread.sleep(1000L);
             System.out.println("市区"+billName+"运算完成，等待中。。。");
             barrier.await();
             System.out.println("全部结束"+billName+"才开始时后面的运算");

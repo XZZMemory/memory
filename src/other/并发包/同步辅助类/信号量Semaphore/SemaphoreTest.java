@@ -25,7 +25,7 @@ public class SemaphoreTest {
                 }
             };
             exec.execute(run);
-            exec.shutdown();//退出线程池
         }
+        exec.shutdown();//退出线程池
     }
 }
