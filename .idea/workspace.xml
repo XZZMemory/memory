@@ -383,7 +383,7 @@
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="PATTERN" value="other.排序算法.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,7 +393,7 @@
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="PATTERN" value="other.排序算法.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,7 +403,7 @@
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="PATTERN" value="other.排序算法.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,7 +413,7 @@
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="PATTERN" value="other.排序算法.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,7 +423,7 @@
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="PATTERN" value="other.排序算法.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

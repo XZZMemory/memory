@@ -1,4 +1,4 @@
-package other.排序算法;
+package other.排序算法.util;
 
 /**
  * 希尔排序四插入排序的一种，也称缩小增量排序，非稳定算法
