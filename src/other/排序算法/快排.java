@@ -5,7 +5,7 @@ package other.排序算法;
  * 复杂度：O(nlgn) - O(n^2) - O(1)[平均 - 最好 - 最坏
  * 栈空间：0(lgn) - O(n)
  */
-public class QuickSort {
+public class 快排 {
     public static void main(String[] args) {
 
         int[] data = {2, 4, 7, 2, 1};
