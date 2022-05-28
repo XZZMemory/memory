@@ -1,5 +1,7 @@
 package other.排序算法;
 
+import other.排序算法.util.SortUtils;
+
 /**
  * created by memory
  * on 2018/12/25 下午2:32
@@ -7,11 +9,11 @@ package other.排序算法;
 public class Main {
     public static void main(String[] args) {
         int[] data = {2, 4, 7, 2, 1};
-        System.out.println("before");
-        System.out.println("after");
-        System.out.println(data);
-    }
+        SortUtils.print("before", data);
 
+        headSort(data);
+        SortUtils.print("after", data);
+    }
 
 
     /**

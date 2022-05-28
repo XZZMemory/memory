@@ -1,5 +1,7 @@
 package other.排序算法;
 
+import other.排序算法.object.ListNode;
+import other.排序算法.util.ListNodeUtil;
 import other.排序算法.util.SortUtils;
 
 import java.util.ArrayList;
@@ -20,6 +22,9 @@ public class 归并排序 {
         int[] tmp = new int[arr.length];    //新建一个临时数组存放
         mergeSort(arr, 0, arr.length - 1, tmp);
         SortUtils.print(arr);
+        ListNode head = ListNodeUtil.create(new int[]{4, 2, 1, 3});
+        ListNodeUtil.print(head);
+        ListNodeUtil.print(sortList(head));
 
     }
 
@@ -73,6 +78,92 @@ public class 归并排序 {
             --index;
         }
 
+    }
+
+
+    /**
+     * ****************** 以下链表的归并
+     */
+
+    public static ListNode sortList(ListNode head) {
+        // 求链表长度
+        int length = 0;
+        ListNode p = head;
+
+        while (p != null) {
+            length++;
+            p = p.next;
+        }
+        ListNode newHead = new ListNode();
+
+        newHead.next = head;
+
+        for (int subLength = 1; subLength < length; subLength = subLength << 1) {  // 2,4,1,3
+            ListNodeUtil.print(newHead.next);
+            if (subLength >= 2) {
+                int i = 0;
+            }
+            ListNode curNode = newHead.next;
+            ListNode pre = newHead;
+
+            while (curNode != null) {
+                int curLength = 1;
+                ListNode head1 = curNode;
+
+                while (curLength < subLength && curNode.next != null) {
+                    curNode = curNode.next;
+                    curLength++;
+                }
+
+                ListNode head2 = curNode.next;
+                // 给断开
+                curNode.next = null;
+                curNode = head2;
+
+                curLength = 1;
+                while (curLength < subLength && curNode != null && curNode.next != null) {
+                    curNode = curNode.next;
+                    curLength++;
+                }
+
+                if (curNode != null) {
+                    ListNode newNode = curNode.next;
+                    curNode.next = null;
+                    curNode = newNode;
+                }
+
+                ListNode mergeNode = merge(head1, head2);
+                pre.next = mergeNode;
+                while (pre.next != null) {
+                    pre = pre.next;
+                }
+            }
+
+        }
+        return newHead.next;
+    }
+
+    public static ListNode merge(ListNode head1, ListNode head2) {
+        ListNode head = new ListNode();
+        ListNode p = head;
+
+        while (head1 != null && head2 != null) {
+            if (head1.val < head2.val) {
+                p.next = head1;
+                head1 = head1.next;
+            } else {
+                p.next = head2;
+                head2 = head2.next;
+            }
+            p = p.next;
+        }
+        if (head1 != null) {
+            p.next = head1;
+        }
+        if (head2 != null) {
+            p.next = head2;
+        }
+        return head.next;
     }
 
 
