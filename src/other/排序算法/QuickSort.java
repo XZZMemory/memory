@@ -7,41 +7,42 @@ package other.排序算法;
  */
 public class QuickSort {
     public static void main(String[] args) {
-        int[] data = {2, 3, 7, 4, 1};
-        sort(data);
+
+        int[] data = {2, 4, 7, 2, 1};
+        quickSort(data, 0, data.length - 1);
     }
 
-    public static void sort(int[] data) {
-        sort(data, 0, data.length - 1);
-    }
-
-    public static void sort(int[] data, int low, int high) {
-        if (low > high) {
+    public static void quickSort(int[] data, int start, int end) {
+        if (start >= end) {
             return;
         }
-        int middle = partion(data, low, high);
-        sort(data, low, middle - 1);
-        sort(data, middle + 1, high);
+        int middle = singleQuickSort(data, start, end);
+        quickSort(data, start, middle - 1);
+        quickSort(data, middle + 1, end);
+
 
     }
 
-    public static int partion(int[] data, int low, int high) {
-        int currentData = data[low];
-        while (low < high) {
-            while (low < high && data[high] > currentData) {
-                high--;
+    public static int singleQuickSort(int[] data, int start, int end) {
+        int temp = data[start];
+        while (start < end) {
+            while (start < end && data[end] >= temp) {
+                --end;
             }
-            if (low < high) {
-                data[low] = data[high];
+            if (start < end) {
+                data[start] = data[end];
             }
-            while (low < high && data[low] < currentData) {
-                low++;
+            while (start < end && data[start] <= temp) {
+                ++start;
             }
-            if (low < high) {
-                data[high] = data[low];
+            if (start < end) {
+                data[end] = data[start];
             }
         }
-        data[low] = currentData;
-        return low;
+        // start=end
+        data[start] = temp;
+        return start;
+
     }
+
 }
