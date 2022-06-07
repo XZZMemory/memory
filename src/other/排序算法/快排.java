@@ -10,14 +10,18 @@ public class 快排 {
 
         int[] data = {2, 4, 7, 2, 1};
         quickSort(data, 0, data.length - 1);
+
     }
 
     public static void quickSort(int[] data, int start, int end) {
         if (start >= end) {
             return;
         }
+        // 排序
         int middle = singleQuickSort(data, start, end);
+        // 左面快排
         quickSort(data, start, middle - 1);
+        // 右面快排
         quickSort(data, middle + 1, end);
 
 
@@ -44,5 +48,4 @@ public class 快排 {
         return start;
 
     }
-
 }

@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="归并排序">
-      <change afterPath="$PROJECT_DIR$/src/other/排序算法/util/ListNodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/memory/other/排序算法/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/排序算法/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/排序算法/MergeSort.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/other/排序算法/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/排序算法/希尔排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/希尔排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/other/排序算法/归并排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/归并排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/排序算法/快排.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/快排.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglib/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +52,42 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/排序算法/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-177">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="583">
+              <caret line="120" column="5" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="120" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedHashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5168">
+              <caret line="300" column="17" selection-start-line="300" selection-start-column="12" selection-end-line="300" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14516">
+              <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,12 +95,13 @@
       <file leaf-file-name="归并排序.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/other/排序算法/归并排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1168">
-              <caret line="128" column="38" lean-forward="true" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+            <state relative-caret-position="2394">
+              <caret line="187" column="23" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#mergeSort#0;class#MergeSort#0" />
-                <element signature="method#merge#0;class#MergeSort#0" />
+                <element signature="method#mergeSort#0;class#归并排序#0" />
+                <element signature="method#merge#0;class#归并排序#0" />
+                <element signature="method#merge1#0;class#归并排序#0" />
               </folding>
             </state>
           </provider>
@@ -74,20 +110,8 @@
       <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/排序算法/object/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListNodeUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/ListNodeUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -95,26 +119,8 @@
       <file leaf-file-name="冒泡排序.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/排序算法/冒泡排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="希尔排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/希尔排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="简单选择排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="380">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -122,17 +128,17 @@
       <file leaf-file-name="直接插入排序.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/排序算法/直接插入排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="292">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java">
+      <file leaf-file-name="简单选择排序.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="279">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -140,8 +146,8 @@
       <file leaf-file-name="快排.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/other/排序算法/快排.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="209">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -182,6 +188,10 @@
       <find>AgeComparator</find>
       <find>8</find>
       <find>synchi</find>
+      <find>head1</find>
+      <find>queue</find>
+      <find>afterNodeAccess</find>
+      <find>removeNode</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -193,7 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/other/designpatterns/命令模式/eg2/Invoker.java" />
         <option value="$PROJECT_DIR$/src/other/designpatterns/命令模式/eg2/CommandPattern.java" />
         <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/HexaObserver.java" />
         <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/HexObserver.java" />
@@ -231,18 +240,19 @@
         <option value="$PROJECT_DIR$/src/other/比较/ObjectTest.java" />
         <option value="$PROJECT_DIR$/src/other/atomic/Demo.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/SortUtils.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/简单选择排序.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/快排.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/直接插入排序.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/Main.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/object/ListNode.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/util/ListNodeUtil.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/希尔排序.java" />
+        <option value="$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java" />
+        <option value="$PROJECT_DIR$/../code/leetcode/editor/cn/BinaryTreeLevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/other/排序算法/快排.java" />
+        <option value="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" />
+        <option value="$PROJECT_DIR$/src/other/排序算法/简单选择排序.java" />
+        <option value="$PROJECT_DIR$/src/other/排序算法/直接插入排序.java" />
+        <option value="$PROJECT_DIR$/src/other/排序算法/Main.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/归并排序.java" />
       </list>
     </option>
@@ -264,8 +274,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectId" id="1Op6OzmuDwHYdzvbB5i48mtMw9X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -274,6 +285,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,15 +326,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
               <item name="排序算法" type="462c0819:PsiDirectoryNode" />
-              <item name="object" type="462c0819:PsiDirectoryNode" />
-              <item name="ListNode" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,8 +340,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -348,7 +350,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="StringB&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;cyclicBarrier&#9;FILE&#9;file:///Users/memory/selfDocu/memory/src/other/并发包/同步辅助类/栅栏CyclicBarrier/CyclicBarrierDemo.java&#10;CountDoLa&#9;PSI&#9;JAVA://other.并发包.同步辅助类.闭锁CountDownLatch.CountDownLatchDemo&#10;Object&#9;PSI&#9;JAVA://java.lang.Object" />
+    <property name="SearchEverywhereHistoryKey" value="LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;cyclicBarrier&#9;FILE&#9;file:///Users/memory/selfDocu/memory/src/other/并发包/同步辅助类/栅栏CyclicBarrier/CyclicBarrierDemo.java&#10;CountDoLa&#9;PSI&#9;JAVA://other.并发包.同步辅助类.闭锁CountDownLatch.CountDownLatchDemo&#10;Object&#9;PSI&#9;JAVA://java.lang.Object" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558522133097" />
@@ -404,9 +406,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.归并排序">
     <configuration name="直接插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.排序算法.直接插入排序" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="快排" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.排序算法.快排" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.排序算法.归并排序" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.排序算法.Main" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
@@ -445,30 +477,18 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.排序算法.Main" />
-      <module name="memory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.快排" />
-      <item itemvalue="Application.希尔排序" />
       <item itemvalue="Application.直接插入排序" />
+      <item itemvalue="Application.快排" />
       <item itemvalue="Application.归并排序" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.归并排序" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.希尔排序" />
         <item itemvalue="Application.直接插入排序" />
         <item itemvalue="Application.快排" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -564,7 +584,9 @@
       <workItem from="1652419078129" duration="3074000" />
       <workItem from="1652608478209" duration="25061000" />
       <workItem from="1653035798751" duration="3894000" />
-      <workItem from="1653666011488" duration="19874000" />
+      <workItem from="1653666011488" duration="22869000" />
+      <workItem from="1653809937858" duration="9554000" />
+      <workItem from="1654482523477" duration="5870000" />
     </task>
     <task id="LOCAL-00001" summary="策略模式">
       <created>1609818036641</created>
@@ -629,11 +651,18 @@
       <option name="project" value="LOCAL" />
       <updated>1653740377103</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="归并排序">
+      <created>1653755340125</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653755340125</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122984000" />
+    <option name="totallyTimeSpent" value="141403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -646,20 +675,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34896553" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.54206896" />
       <window_info anchor="right" id="leetcode" order="4" side_tool="true" weight="0.32928804" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34896553" />
       <window_info anchor="bottom" id="Sequence" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.15172414" weight="0.3114887" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.15172414" weight="0.3171521" />
       <window_info anchor="right" id="Database" order="3" weight="0.32928804" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
       <window_info id="Structure" order="1" sideWeight="0.84827584" side_tool="true" weight="0.3131068" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35172415" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,6 +697,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -979,16 +1008,58 @@
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/other/排序算法/归并排序.java</url>
-          <line>169</line>
+          <url>file://$PROJECT_DIR$/src/other/排序算法/Main.java</url>
+          <line>121</line>
           <properties />
-          <option name="timeStamp" value="50" />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/排序算法/快排.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/排序算法/快排.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/排序算法/快排.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/other/排序算法/归并排序.java</url>
-          <line>31</line>
+          <line>120</line>
           <properties />
-          <option name="timeStamp" value="55" />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/排序算法/归并排序.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/排序算法/归并排序.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/other/多线程/Test.java</url>
@@ -1007,7 +1078,7 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="60" />
+      <option name="time" value="78" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1066,30 +1137,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/other/oomconstruct/MethodAreaOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/beike/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/actionEvent/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1233,9 +1280,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1243,16 +1287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1267,13 +1301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
-            <element signature="e#1335#1336#0" expanded="true" />
-            <element signature="e#1383#1384#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1327,9 +1354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="e#268#726#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1344,10 +1368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="204" column="52" selection-start-line="204" selection-start-column="41" selection-end-line="204" selection-end-column="52" />
-          <folding>
-            <element signature="e#5214#5215#0" expanded="true" />
-            <element signature="e#5290#5291#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1376,48 +1396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/直接插入排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/冒泡排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/快排.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-177">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/object/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/排序算法/希尔排序.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
@@ -1425,17 +1403,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java">
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/ListNodeUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="608">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/ListNodeUtil.java">
+    <entry file="file://$PROJECT_DIR$/../code/leetcode/editor/cn/BinaryTreeLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="950">
+          <caret line="88" column="56" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/gc/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/object/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14516">
+          <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5168">
+          <caret line="300" column="17" selection-start-line="300" selection-start-column="12" selection-end-line="300" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/冒泡排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/直接插入排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/快排.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/排序算法/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="120" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1444,15 +1499,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/排序算法/归并排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1168">
-          <caret line="128" column="38" lean-forward="true" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+        <state relative-caret-position="2394">
+          <caret line="187" column="23" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#mergeSort#0;class#MergeSort#0" />
-            <element signature="method#merge#0;class#MergeSort#0" />
+            <element signature="method#mergeSort#0;class#归并排序#0" />
+            <element signature="method#merge#0;class#归并排序#0" />
+            <element signature="method#merge1#0;class#归并排序#0" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cglib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

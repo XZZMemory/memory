@@ -4,12 +4,6 @@ import other.排序算法.object.ListNode;
 import other.排序算法.util.ListNodeUtil;
 import other.排序算法.util.SortUtils;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
-
 /**
  * created by memory
  * on 2018/12/25 下午4:36
@@ -80,6 +74,80 @@ public class 归并排序 {
 
     }
 
+    public static ListNode sortList1(ListNode head) {
+        ListNode p = head;
+        int totalLength = 0;
+        while (p != null) {
+            ++totalLength;
+            p = p.next;
+        }
+        int subLength = 1;
+        ListNode newHead = new ListNode();
+        newHead.next = head;
+        while (subLength < totalLength) {
+            ListNode pre = newHead;
+            ListNode curNode = newHead.next;
+            while (curNode != null) {
+                // 找到第一个链表 并断开尾部
+                ListNode head1 = curNode;
+                for (int i = 1; i < subLength && curNode != null; i++) {
+                    curNode = curNode.next;
+                }
+                // 找到第二个链表 并断开尾部
+                ListNode head2 = null;
+                if (curNode != null) {
+                    head2 = curNode.next;
+                    curNode.next = null;
+                }
+                curNode = head2;
+                for (int i = 1; i < subLength && curNode != null; i++) {
+                    curNode = curNode.next;
+                }
+                ListNode temp = null;
+
+                if (curNode != null) {
+                    temp = curNode.next;
+                    curNode.next = null;
+
+                }
+                // 合并两个有序链表
+                pre.next = merge1(head1, head2);
+                while (pre.next != null) {
+                    pre = pre.next;
+                }
+                curNode = temp;
+            }
+            subLength = subLength << 1;
+        }
+        return newHead.next;
+    }
+
+    // 合并两个有序链表
+    public static ListNode merge1(ListNode p1, ListNode p2) {
+        ListNode newHead = new ListNode();
+        ListNode pre = newHead;
+        while (p1 != null && p2 != null) {
+            if (p1.val < p2.val) {
+                pre.next = p1;
+                p1 = p1.next;
+
+            } else {
+                pre.next = p2;
+                p2 = p2.next;
+            }
+            pre = pre.next;
+
+
+        }
+        if (p1 != null) {
+            pre.next = p1;
+        }
+        if (p2 != null) {
+            pre.next = p2;
+        }
+        return newHead.next;
+    }
+
 
     /**
      * ****************** 以下链表的归并
@@ -99,37 +167,34 @@ public class 归并排序 {
         newHead.next = head;
 
         for (int subLength = 1; subLength < length; subLength = subLength << 1) {  // 2,4,1,3
-            ListNodeUtil.print(newHead.next);
-            if (subLength >= 2) {
-                int i = 0;
-            }
-            ListNode curNode = newHead.next;
+
             ListNode pre = newHead;
+            ListNode curNode = newHead.next;
 
             while (curNode != null) {
-                int curLength = 1;
-                ListNode head1 = curNode;
 
-                while (curLength < subLength && curNode.next != null) {
+                // 找到第一个链表 并断开尾部
+                ListNode head1 = curNode;
+                for (int i = 1; i < subLength && curNode != null; i++) {
                     curNode = curNode.next;
-                    curLength++;
                 }
 
-                ListNode head2 = curNode.next;
-                // 给断开
-                curNode.next = null;
+                ListNode head2 = null;
+                if (curNode != null) {
+                    head2 = curNode.next;
+                    curNode.next = null;
+                }
                 curNode = head2;
 
-                curLength = 1;
-                while (curLength < subLength && curNode != null && curNode.next != null) {
+                // 找到第二个链表 并断开尾部
+                for (int i = 1; i < subLength && curNode != null; i++) {
                     curNode = curNode.next;
-                    curLength++;
                 }
 
                 if (curNode != null) {
-                    ListNode newNode = curNode.next;
+                    ListNode temp = curNode.next;
                     curNode.next = null;
-                    curNode = newNode;
+                    curNode = temp;
                 }
 
                 ListNode mergeNode = merge(head1, head2);
