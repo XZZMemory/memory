@@ -6,7 +6,6 @@ package other.内部类.anonymousInnerClass;
  */
 public class Demo {
     public static void main(String[] args) {
-        new MyObject().printInfo();
         //内部匿名类
         Person p = new Person() {
             @Override

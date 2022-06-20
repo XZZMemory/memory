@@ -1,5 +1,7 @@
 package other.设计模式.单例模式.双重校验锁DCL;
 
+import other.设计模式.单例模式.饿汉式.SingleObject;
+
 public class Test {
     public static void main(String[] args) {
         //不合法的构造函数
@@ -14,15 +16,16 @@ public class Test {
              }
 
           */
-        //获取唯一可用的对象
-        Singleton object = Singleton.getInstance();
-        System.out.println("1:" + object.toString() + " " + object.hashCode());
 
-        //显示消息
-        Singleton object2 = Singleton.getInstance();
-        System.out.println("2:" + object2.toString() + " " + object.hashCode());
-        Singleton object3 = Singleton.getInstance();
-        System.out.println("3:" + object3.toString() + " " + object3.hashCode());
-        System.out.println("4:" + object.equals(object2));
+        for (int i = 0; i < 10; i++) {
+            final int k = i;
+            new Thread(new Runnable() {
+                @Override
+                public void run() {
+                    Singleton object = Singleton.getInstance();
+                    System.out.println("线程" + k + " toString :" + object.toString() + " hashcode:" + object.hashCode());
+                }
+            }).start();
+        }
     }
 }

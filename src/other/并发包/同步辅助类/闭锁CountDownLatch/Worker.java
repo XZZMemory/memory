@@ -15,7 +15,7 @@ public class Worker extends Thread {
     {
         try {
             System.out.println(workName+" is begin");
-            Thread.sleep(1000l);
+            Thread.sleep(1000L);
             System.out.println(workName+" is end");
         }catch (Exception e)
         {

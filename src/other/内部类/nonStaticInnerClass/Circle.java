@@ -11,17 +11,22 @@ package other.内部类.nonStaticInnerClass;
  */
 public class Circle {
     private double radius;
-    public static int count=1;
-    public Circle(double radius){
-        this.radius =radius;
-        getDrawInstance().drawShape();//必须先创建内部类的对象，再进行访问
+    public static int count = 1;
+
+    public Circle(double radius) {
+        this.radius = radius;
+        new Draw().drawShape();//必须先创建内部类的对象，再进行访问
     }
-    public Draw getDrawInstance(){
+
+
+    public Draw getDrawInstance() {
         return new Draw();
     }
-    class Draw{//other.内部类
-        public void drawShape(){
-            System.out.println("drawShape: "+radius+" count: "+count);
+
+
+    class Draw {
+        public void drawShape() {
+            System.out.println("drawShape: " + radius + " count: " + count);
         }
 
     }

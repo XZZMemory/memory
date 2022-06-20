@@ -13,6 +13,7 @@ public class ChainPatternDemo {
         AbstractLogger debugLogger = new DebugLogger(AbstractLogger.DEBUG);
         AbstractLogger infoLogger = new InfoLogger(AbstractLogger.INFO);
 
+        // error -> debug -> info
         errorLogger.setNextLogger(debugLogger);
         debugLogger.setNextLogger(infoLogger);
 

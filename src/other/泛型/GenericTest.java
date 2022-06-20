@@ -10,28 +10,31 @@ import java.util.List;
  */
 public class GenericTest {
     public static void main(String[] args) {
-        /**
-         List list=new ArrayList();
-         list.add("string1");
-         list.add("string2");
-         list.add(3);
-         List<String> list = new ArrayList<>();
-         list.add("string1");
-         list.add("string2");
-         //list.add(3);报错
-         for (int i = 0; i < list.size(); i++) {
-         String currentData = list.get(i);
-         System.out.println(i + ": " + currentData);
-         }*/
-        /**   Box<String> name = new Box<>();
-         name.add("memory");
-         Box<Integer> age = new Box<>();
-         age.add(24);
-         System.out.println("name: " + name.get());
-         System.out.println("age: " + age.get());
-         System.out.println("name类的类型："+name.getClass());
-         System.out.println("age类的类型："+age.getClass());
-         System.out.println(name.getClass()==age.getClass());*/
+
+        List list = new ArrayList();
+        list.add("string1");
+        list.add("string2");
+        list.add(3);
+        List<String> list2 = new ArrayList<>();
+        list2.add("string1");
+        list2.add("string2");
+        list.add(3);
+        for (int i = 0; i < list2.size(); i++) {
+            // 因为加了2，会报错
+            String currentData = (String)list2.get(i);
+            System.out.println(i + ": " + currentData);
+        }
+        Box<String> name = new Box<>();
+        name.add("memory");
+        Box<Integer> age = new Box<>();
+        age.add(24);
+        System.out.println("name: " + name.get());
+        System.out.println("age: " + age.get());
+        System.out.println("name类的类型：" + name.getClass());
+        System.out.println("age类的类型：" + age.getClass());
+        System.out.println("类型是否相同" + (name.getClass() == age.getClass()));
+
+
         Integer[] integerArray = new Integer[]{1, 2, 3, 4};
         System.out.println("Integer数组改变前的数据是：");
         printArrray(integerArray);
@@ -45,25 +48,26 @@ public class GenericTest {
         System.out.println("Character数组改变后的数据是：");
         printArrray(changedCharacterArray);
 
-
-        List<String> name = new ArrayList<>();
-        List<Integer> age = new ArrayList<>();
-        List<Number> number = new ArrayList<>();
-        name.add("memory");
-        age.add(18);
-        number.add(100);
-        getDataOfList(name);
-        getDataOfList(age);
-        getDataOfList(number);
-        Box<Number> score= new Box<>(39.3);
-        Box<Integer> age1=new Box<>(18);
-        getData(score);
-        //getData(age1);
+//
+//        List<String> name = new ArrayList<>();
+//        List<Integer> age = new ArrayList<>();
+//        List<Number> number = new ArrayList<>();
+//        name.add("memory");
+//        age.add(18);
+//        number.add(100);
+//        getDataOfList(name);
+//        getDataOfList(age);
+//        getDataOfList(number);
+//        Box<Number> score = new Box<>(39.3);
+//        Box<Integer> age1 = new Box<>(18);
+//        getData(score);
+//        //getData(age1);
     }
 
-    public static void getData(Box<Number> data){
+    public static void getData(Box<Number> data) {
         System.out.println(data.get());
     }
+
     public static void getDataOfList(List<?> data) {
         System.out.println("当前数据是：" + data.get(0));
     }
@@ -95,7 +99,8 @@ public class GenericTest {
 class Box<T> {
     private T data;
 
-    public Box() {}
+    public Box() {
+    }
 
     public Box(T data) {
         this.data = data;

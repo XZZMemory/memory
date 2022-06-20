@@ -4,15 +4,45 @@
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="归并排序">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+    <list default="true" id="31377dd0-1e0f-4a4a-8e86-46f2166a7762" name="Default Changelist" comment="排序">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/memory/other/排序算法/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/排序算法/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/排序算法/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/冒泡排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/排序算法/归并排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/归并排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/排序算法/快排.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/排序算法/快排.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/staticUsage/StaticCodeBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/staticUsage/StaticCodeBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/staticUsage/StaticCodeBlockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/staticUsage/StaticCodeBlockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/staticUsage/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/staticUsage/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/anonymousInnerClass/MyObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/nonStaticInnerClass/Circle$Draw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/内部类/nonStaticInnerClass/Circle$Draw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/nonStaticInnerClass/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/内部类/nonStaticInnerClass/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/内部类/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/内部类/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/泛型/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/泛型/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/泛型/GenericTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/泛型/GenericTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/使用静态内部类1/Singleton$T.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/使用静态内部类1/Singleton$T.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/使用静态内部类1/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/使用静态内部类1/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/双重校验锁DCL/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/双重校验锁DCL/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/饿汉式/SingleObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/单例模式/饿汉式/SingleObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/memory/other/设计模式/责任链模式/ChainPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/memory/other/设计模式/责任链模式/ChainPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/staticUsage/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/staticUsage/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/MyObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/nonStaticInnerClass/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/nonStaticInnerClass/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/内部类/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/内部类/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/泛型/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/泛型/GenericTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/单例模式/使用静态内部类1/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/使用静态内部类1/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/单例模式/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/单例模式/饿汉式/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/单例模式/饿汉式/SingleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/模板模式/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/模板模式/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/设计模式/责任链模式/ChainPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/设计模式/责任链模式/ChainPatternDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cglib/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/Main.java">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="120" column="5" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="120" selection-end-column="5" />
+            <state relative-caret-position="108">
+              <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,93 +91,87 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedHashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/懒汉式/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5168">
-              <caret line="300" column="17" selection-start-line="300" selection-start-column="12" selection-end-line="300" selection-end-column="22" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <file leaf-file-name="说明.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/说明.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14516">
-              <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
+            <state relative-caret-position="190">
+              <caret line="10" column="12" lean-forward="true" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java">
+      <file leaf-file-name="StaticCodeBlock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-              <folding>
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="95">
+              <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="归并排序.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/归并排序.java">
+      <file leaf-file-name="StaticCodeBlockDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2394">
-              <caret line="187" column="23" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#mergeSort#0;class#归并排序#0" />
-                <element signature="method#merge#0;class#归并排序#0" />
-                <element signature="method#merge1#0;class#归并排序#0" />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/object/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="冒泡排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/冒泡排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="直接插入排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/直接插入排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="简单选择排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="快排.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/other/排序算法/快排.java">
+      <file leaf-file-name="说明.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/other/staticUsage/说明.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <caret line="11" column="7" lean-forward="true" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DCL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/DCL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="24" column="29" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingleObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/饿汉式/SingleObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,20 +184,15 @@
         <option value="UML Sequence" />
         <option value="UML Class" />
         <option value="AnnotationType" />
-        <option value="Enum" />
-        <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>反序列化</find>
-      <find>pattern</find>
-      <find>binary</find>
-      <find>args1</find>
-      <find>waiting</find>
       <find>wait</find>
       <find>join</find>
       <find>run</find>
@@ -192,6 +211,18 @@
       <find>queue</find>
       <find>afterNodeAccess</find>
       <find>removeNode</find>
+      <find>二进制</find>
+      <find>setState</find>
+      <find>State</find>
+      <find>put</find>
+      <find>synchronized</find>
+      <find>Node</find>
+      <find>sizeC</find>
+      <find>break</find>
+      <find>Comparator</find>
+      <find>1.使用懒汉式</find>
+      <find>5.使用枚举类</find>
+      <find>4.使用饿汉式</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -203,43 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/other/designpatterns/命令模式/eg2/CommandPattern.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/HexaObserver.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/HexObserver.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/OctalObserver.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/BinaryObserver.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/ObserverPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo2/DynamicProxyDemo.java" />
-        <option value="$PROJECT_DIR$/src/other/dynamicProxy/jdk/demo1/DynamicProxyDemo.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/demo/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/State.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/Test.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/TestJoin.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/CompletableFutureTest.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/调用start方法和调用run方法的区别/Test.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/Synchronized测试/Demo.java" />
-        <option value="$PROJECT_DIR$/src/other/类加载器/Test.java" />
-        <option value="$PROJECT_DIR$/src/other/类加载器/TestClassLoader.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/模板模式/ConcreteClass.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/模板模式/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/观察者模式/观察者模式1/ObserverPattern.java" />
-        <option value="$PROJECT_DIR$/src/other/designpatterns/模板模式/Demo.java" />
-        <option value="$PROJECT_DIR$/src/other/并发包/同步辅助类/信号量Semaphore/SemaphoreTest.java" />
-        <option value="$PROJECT_DIR$/src/other/并发包/同步辅助类/栅栏CyclicBarrier/BillTask.java" />
-        <option value="$PROJECT_DIR$/src/other/双冒号/Demo.java" />
-        <option value="$PROJECT_DIR$/src/other/actionEvent/Main.java" />
-        <option value="$PROJECT_DIR$/../code/leetcode/editor/cn/Sqrtx.java" />
-        <option value="$PROJECT_DIR$/src/other/actionEvent/HandlStringListen.java" />
-        <option value="$PROJECT_DIR$/src/Solution.java" />
-        <option value="$PROJECT_DIR$/src/other/多线程/MultiThread.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/堆排序.java" />
-        <option value="$PROJECT_DIR$/src/other/比较/Student.java" />
-        <option value="$PROJECT_DIR$/src/other/比较/Test.java" />
-        <option value="$PROJECT_DIR$/src/other/比较/ObjectTest.java" />
-        <option value="$PROJECT_DIR$/src/other/atomic/Demo.java" />
-        <option value="$PROJECT_DIR$/src/other/排序算法/SortUtils.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/MergeSort.java" />
@@ -254,6 +248,43 @@
         <option value="$PROJECT_DIR$/src/other/排序算法/直接插入排序.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/Main.java" />
         <option value="$PROJECT_DIR$/src/other/排序算法/归并排序.java" />
+        <option value="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/Worker.java" />
+        <option value="$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/other/函数式接口/Function.java" />
+        <option value="$PROJECT_DIR$/src/object/ProjectOrder.java" />
+        <option value="$PROJECT_DIR$/src/other/函数式接口/FunctionExecute.java" />
+        <option value="$PROJECT_DIR$/src/other/函数式接口/MyFunction.java" />
+        <option value="$PROJECT_DIR$/src/other/函数式接口/Main.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/模板模式/Demo.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/责任链模式/ChainPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/other/泛型/GenericTest.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/静态内部类.java" />
+        <option value="$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/Person.java" />
+        <option value="$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/Demo.java" />
+        <option value="$PROJECT_DIR$/src/other/内部类/说明.txt" />
+        <option value="$PROJECT_DIR$/src/other/内部类/nonStaticInnerClass/Circle.java" />
+        <option value="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlockDemo.java" />
+        <option value="$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlock.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/使用静态内部类1/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/饿汉式/SingleObject.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/饿汉式/Demo.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/懒汉式/Demo.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/懒汉式/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/静态内部类/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/静态内部类/Demo.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/懒汉式/Lazy.java" />
+        <option value="$PROJECT_DIR$/src/object/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/Lazy.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/InnerClass.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/MyEnum.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/DCL.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/Hungry.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/second/Demo.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/说明.txt" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Test.java" />
+        <option value="$PROJECT_DIR$/src/other/staticUsage/说明.txt" />
       </list>
     </option>
   </component>
@@ -274,9 +305,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1Op6OzmuDwHYdzvbB5i48mtMw9X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -286,7 +316,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,21 +332,6 @@
               <item name="memory" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="memory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
               <item name="object" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -325,21 +339,136 @@
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="memory" type="b2602c69:ProjectViewProjectNode" />
               <item name="memory" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
-              <item name="排序算法" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="1a9f42e2:ClassTreeNode" />
+              <item name="staticUsage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="单例模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="单例模式" type="462c0819:PsiDirectoryNode" />
+              <item name="second" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="单例模式" type="462c0819:PsiDirectoryNode" />
+              <item name="双重校验锁DCL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="单例模式" type="462c0819:PsiDirectoryNode" />
+              <item name="懒汉式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="单例模式" type="462c0819:PsiDirectoryNode" />
+              <item name="饿汉式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="memory" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="单例模式" type="462c0819:PsiDirectoryNode" />
+              <item name="饿汉式" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleObject" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="Runnable" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="memory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="HashMap" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -350,7 +479,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;cyclicBarrier&#9;FILE&#9;file:///Users/memory/selfDocu/memory/src/other/并发包/同步辅助类/栅栏CyclicBarrier/CyclicBarrierDemo.java&#10;CountDoLa&#9;PSI&#9;JAVA://other.并发包.同步辅助类.闭锁CountDownLatch.CountDownLatchDemo&#10;Object&#9;PSI&#9;JAVA://java.lang.Object" />
+    <property name="SearchEverywhereHistoryKey" value="MyObject&#9;PSI&#9;JAVA://other.多线程.MyObject&#10;executorSe&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;concurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;HashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;LinkedHash&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;StringB&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;cyclicBarrier&#9;FILE&#9;file:///Users/memory/selfDocu/memory/src/other/并发包/同步辅助类/栅栏CyclicBarrier/CyclicBarrierDemo.java&#10;CountDoLa&#9;PSI&#9;JAVA://other.并发包.同步辅助类.闭锁CountDownLatch.CountDownLatchDemo&#10;Object&#9;PSI&#9;JAVA://java.lang.Object" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558522133097" />
@@ -369,7 +498,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -406,13 +535,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.归并排序">
-    <configuration name="直接插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.排序算法.直接插入排序" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.设计模式.单例模式.使用静态内部类1.Demo" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
+          <option name="PATTERN" value="other.设计模式.单例模式.使用静态内部类1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.设计模式.单例模式.饿汉式.Demo" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.设计模式.单例模式.饿汉式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.设计模式.单例模式.second.静态内部类.Demo" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.设计模式.单例模式.second.静态内部类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.设计模式.单例模式.second.Demo" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.设计模式.单例模式.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StaticCodeBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.staticUsage.StaticCodeBlockDemo" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.staticUsage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other.设计模式.单例模式.双重校验锁DCL.Test" />
+      <module name="memory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other.设计模式.单例模式.双重校验锁DCL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,16 +608,6 @@
     </configuration>
     <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other.排序算法.归并排序" />
-      <module name="memory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other.排序算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.排序算法.Main" />
       <module name="memory" />
       <extension name="coverage">
         <pattern>
@@ -478,17 +647,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.直接插入排序" />
-      <item itemvalue="Application.快排" />
-      <item itemvalue="Application.归并排序" />
+      <item itemvalue="Application.Demo (2)" />
+      <item itemvalue="Application.StaticCodeBlockDemo" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Demo (1)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.归并排序" />
-        <item itemvalue="Application.直接插入排序" />
-        <item itemvalue="Application.快排" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -501,6 +672,9 @@
         </treeState>
       </serviceView>
     </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -586,7 +760,9 @@
       <workItem from="1653035798751" duration="3894000" />
       <workItem from="1653666011488" duration="22869000" />
       <workItem from="1653809937858" duration="9554000" />
-      <workItem from="1654482523477" duration="5870000" />
+      <workItem from="1654482523477" duration="24173000" />
+      <workItem from="1655116158399" duration="4227000" />
+      <workItem from="1655393296766" duration="9894000" />
     </task>
     <task id="LOCAL-00001" summary="策略模式">
       <created>1609818036641</created>
@@ -658,15 +834,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653755340125</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="排序">
+      <created>1654583334199</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654583334199</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141403000" />
+    <option name="totallyTimeSpent" value="173827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -675,15 +857,16 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34896553" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.64689654" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.54206896" />
-      <window_info anchor="right" id="leetcode" order="4" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" weight="0.29154727" />
       <window_info anchor="bottom" id="Sequence" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.15172414" weight="0.3171521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.14700194" visible="true" weight="0.32281554" />
       <window_info anchor="right" id="Database" order="3" weight="0.32928804" />
-      <window_info id="Structure" order="1" sideWeight="0.84827584" side_tool="true" weight="0.3131068" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
+      <window_info id="Structure" order="1" sideWeight="0.8529981" side_tool="true" weight="0.32281554" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35172415" />
@@ -697,7 +880,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -737,10 +919,10 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="策略模式" />
     <MESSAGE value="线程" />
-    <MESSAGE value="排序" />
     <MESSAGE value="希尔排序" />
     <MESSAGE value="归并排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="归并排序" />
+    <MESSAGE value="排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="排序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -955,12 +1137,6 @@
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/other/内部类/nonStaticInnerClass/Circle.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/other/集合/集合使用/Usage.java</url>
           <properties />
           <option name="timeStamp" value="2" />
@@ -1045,21 +1221,51 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/other/排序算法/归并排序.java</url>
-          <line>120</line>
+          <line>119</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/other/排序算法/归并排序.java</url>
-          <line>172</line>
+          <line>171</line>
           <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/other/排序算法/归并排序.java</url>
-          <line>183</line>
+          <line>182</line>
           <properties />
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>1980</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>1867</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>2425</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>2616</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/other/泛型/GenericTest.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/other/多线程/Test.java</url>
@@ -1078,7 +1284,7 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="78" />
+      <option name="time" value="85" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1137,360 +1343,105 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/other/actionEvent/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../code/leetcode/editor/cn/SumRootToLeafNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="92" column="45" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../code/leetcode/editor/cn/Sqrtx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collectionTest/map/linkedHashMapDemo/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/aiqiyi/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../code/leetcode/editor/cn/MaximumSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../code/leetcode/editor/cn/Subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/actionEvent/HandlStringListen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/actionEvent/WindowActionEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="78" column="15" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="15" />
-          <folding>
-            <element signature="e#1028#1029#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/MultiThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="1341" column="21" lean-forward="true" selection-start-line="1341" selection-start-column="21" selection-end-line="1341" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="301" column="19" selection-start-line="301" selection-start-column="19" selection-end-line="301" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/并发包/同步辅助类/栅栏CyclicBarrier/CyclicBarrierDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7448">
-          <caret line="430" column="15" selection-start-line="430" selection-start-column="15" selection-end-line="430" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/并发包/同步辅助类/闭锁CountDownLatch/CountDownLatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/SelectSort.java" />
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/堆排序.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5985">
-          <caret line="341" column="18" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="101" column="57" selection-start-line="101" selection-start-column="48" selection-end-line="101" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-581">
-          <caret line="1152" column="24" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/比较/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/比较/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1368">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/比较/ObjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/模板模式/AbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/模板模式/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/策略模式/OperationSubtract.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/责任链模式/test1/ChainOfResponsibilityPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/策略模式/StrategyPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/责任链模式/test1/ConcreteHandler2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="64" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="64" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/设计模式/策略模式/策略模式.png">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/责任链模式/test1/图片.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/责任链模式/AbstractLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7695">
-          <caret line="446" column="11" selection-start-line="446" selection-start-column="11" selection-end-line="446" selection-end-column="11" />
-          <folding>
-            <element signature="e#15020#15021#0" expanded="true" />
-            <element signature="e#15084#15085#0" expanded="true" />
-            <element signature="e#36709#36710#0" expanded="true" />
-            <element signature="e#36767#36768#0" expanded="true" />
-            <element signature="e#37304#37305#0" expanded="true" />
-            <element signature="e#37347#37348#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="361">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/多线程/多线程测试1/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/责任链模式/ChainPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="361">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5928">
-          <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="204" column="52" selection-start-line="204" selection-start-column="41" selection-end-line="204" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/atomic/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="161" column="16" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/希尔排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/ListNodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../code/leetcode/editor/cn/BinaryTreeLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="88" column="56" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/gc/MyObject.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/命令模式/ReceiverStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/object/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/命令模式/Command.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/命令模式/Invoker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14516">
-          <caret line="812" column="20" selection-start-line="812" selection-start-column="20" selection-end-line="812" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5168">
-          <caret line="300" column="17" selection-start-line="300" selection-start-column="12" selection-end-line="300" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/util/SortUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="247">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/冒泡排序.java">
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/命令模式/CommandPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/直接插入排序.java">
+    <entry file="file://$PROJECT_DIR$/src/other/jdk8/stream/Sorted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/简单选择排序.java">
+    <entry file="file://$PROJECT_DIR$/src/other/泛型/MaximumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/排序算法/快排.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="154">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/泛型/GenericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="e#2181#2182#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/排序算法/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="120" column="5" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="120" selection-end-column="5" />
+        <state relative-caret-position="-4">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1499,14 +1450,287 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/other/排序算法/归并排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2394">
-          <caret line="187" column="23" selection-start-line="187" selection-start-column="16" selection-end-line="187" selection-end-column="23" />
+        <state relative-caret-position="595">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#mergeSort#0;class#归并排序#0" />
             <element signature="method#merge#0;class#归并排序#0" />
             <element signature="method#merge1#0;class#归并排序#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/枚举类/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/枚举类/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/anonymousInnerClass/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/localInnerClass/OuterClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/内部类">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/nonStaticInnerClass/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/内部类/nonStaticInnerClass/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/staticUsage/StaticMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/StringvalueOf和IntegertoString的区别/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/懒汉式/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="462" column="11" selection-start-line="462" selection-start-column="11" selection-end-line="462" selection-end-column="11" />
+          <folding>
+            <element signature="e#15020#15021#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/使用静态内部类1/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/饿汉式/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="13" column="66" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/静态内部类/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/object/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/object/ProjectOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/使用静态内部类1/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/MyEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/Lazy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/InnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/Hungry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/懒汉式/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" lean-forward="true" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/second/DCL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/staticUsage/StaticCodeBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/饿汉式/SingleObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/设计模式/单例模式/双重校验锁DCL/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="24" column="29" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/staticUsage/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
