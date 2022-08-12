@@ -19,6 +19,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../code/leetcode/editor/cn/NumberOf1Bits.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../code/leetcode/editor/cn/NumberOf1Bits.java" />
+              <option name="questionId" value="191" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../code/leetcode/editor/cn/Sqrtx.java">
           <value>
             <LeetcodeEditor>
@@ -40,6 +48,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../code/leetcode/editor/cn/SumRootToLeafNumbers.java" />
               <option name="questionId" value="129" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../code/leetcode/editor/cn/SwapAdjacentInLrString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../code/leetcode/editor/cn/SwapAdjacentInLrString.java" />
+              <option name="questionId" value="793" />
             </LeetcodeEditor>
           </value>
         </entry>

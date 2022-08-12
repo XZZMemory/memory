@@ -1,4 +1,4 @@
-package algorithm.huawei;
+package algorithm.socialrecruitment.year2022.huawei;
 
 import java.util.*;
 
