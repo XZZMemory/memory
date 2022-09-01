@@ -7,12 +7,61 @@ import java.util.Collections;
  */
 public class Test {
     public static void main(String[] args) {
-        byte aaa = 77;
-        String str = String.valueOf(aaa);
-        System.out.println("str:" + str);
-        String aa = "23";
-        System.out.println(aa.intern());
-        System.out.println("#######");
+        int[] data = new int[29999];
+        Solution s = new Test().new Solution();
+        s.sortArray(data);
+
+    }
+
+    class Solution {
+        public int[] sortArray(int[] nums) {
+            // 使用堆排序
+            // 1.调整为大根堆
+            for (int index = nums.length / 2; index >= 0; index--) {
+                headAdjust(nums, index, nums.length - 1);
+            }
+            // 2.【0】与最后一个元素交换，排序
+            for (int index = nums.length - 1; index > 0; index--) {
+                swap(nums, 0, index);
+                headAdjust(nums, 0, index - 1);
+            }
+            return nums;
+        }
+
+        public void headAdjust(int[] nums, int index, int maxIndex) {
+            System.out.println(index + " " + maxIndex);
+            int leftChildIndex = (index << 1) + 1;
+            if (leftChildIndex > maxIndex) {
+                return;
+            }
+            int rightChildIndex = leftChildIndex + 1;
+            int maxChildIndex = rightChildIndex <= maxIndex && nums[rightChildIndex] > nums[leftChildIndex] ? rightChildIndex : leftChildIndex;
+            if (nums[maxChildIndex] < nums[index]) {
+                return;
+            }
+            System.out.println(maxChildIndex + " " + index);
+            swap(nums, maxChildIndex, index);
+            headAdjust(nums, maxChildIndex, maxIndex);
+
+
+        }
+
+        public void swap(int[] nums, int left, int right) {
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+        }
+
+    }
+
+    public static void main1(String[] args) {
+
+//        byte aaa = 77;
+//        String str = String.valueOf(aaa);
+//        System.out.println("str:" + str);
+//        String aa = "23";
+//        System.out.println(aa.intern());
+//        System.out.println("#######");
         ;
         /*
         * int[] nums1 = new int[]{1, 3};
@@ -33,12 +82,12 @@ public class Test {
 
         System.out.println("***************");
         System.out.println(test.times2(10));*/
-        int b = 4 - 1;
-        int a = 20;
-        System.out.println(Integer.toBinaryString(a));
-        System.out.println(Integer.toBinaryString(b));
-        System.out.println(a & b);
-        System.out.println(new BigInteger("7FFFFFFF", 16));
+//        int b = 4 - 1;
+//        int a = 20;
+//        System.out.println(Integer.toBinaryString(a));
+//        System.out.println(Integer.toBinaryString(b));
+//        System.out.println(a & b);
+//        System.out.println(new BigInteger("7FFFFFFF", 16));
     }
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

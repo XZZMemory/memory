@@ -9,8 +9,8 @@ import java.util.concurrent.Semaphore;
 public class ConcurrentPrint {
     // 共享资源个数都初始为1
     private static Semaphore s1 = new Semaphore(1);
-    private static Semaphore s2 = new Semaphore(1);
-    private static Semaphore s3 = new Semaphore(1);
+    private static Semaphore s2 = new Semaphore(0);
+    private static Semaphore s3 = new Semaphore(0);
     Thread t1 = new Thread(new Runnable() {
         public void run() {
             while (true) {

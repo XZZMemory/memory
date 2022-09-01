@@ -19,7 +19,7 @@ public class HeapSort {
 
         int[] b = {49, 38, 65, 97, 76, 13, 27, 50};
 
-        sort.heapSort(b);
+//        sort.heapSort(b);
         System.out.println(Arrays.toString(b));
     }
 
@@ -37,26 +37,25 @@ public class HeapSort {
     }
 
     public void heapAdjust(int[] data, int index, int maxIndex) {
-        // 左孩子位置
-        int leftChildIndex = (index << 1) + 1;
-        // 越界，直接返回
-        if (leftChildIndex > maxIndex) {
-            return;
-        }
-        // 右孩子位置
-        int rightChildIndex = leftChildIndex + 1;
+        for (; (index << 1) + 1 <= maxIndex; ) {
+            int lChildIndex = (index << 1) + 1;
+            int rChildIndex = (index << 1) + 2;
+            int maxChildIndex = rChildIndex <= maxIndex && data[rChildIndex] > data[lChildIndex] ? rChildIndex : lChildIndex;
+            if (data[maxChildIndex] < data[index]) {
+                break;
+            }
+            swap(data, index, maxChildIndex);
+            index = maxChildIndex;
 
-        // 找左右孩子中的最大值
-        int childMaxIndex = (rightChildIndex <= maxIndex && data[rightChildIndex] > data[leftChildIndex]) ?
-                rightChildIndex : leftChildIndex;
 
-        // 左右孩子均比当前节点小，则不用调整
-        if (data[childMaxIndex] < data[index]) {
-            return;
         }
-        // 左右孩子比当前节点大，则交换调整
-        SortUtils.exch(data, index, childMaxIndex);
-        heapAdjust(data, childMaxIndex, maxIndex);
+    }
+
+
+    private void swap(int[] data, int i, int j) {
+        int temp = data[i];
+        data[i] = data[j];
+        data[j] = temp;
     }
 
 

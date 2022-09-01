@@ -1,4 +1,4 @@
-package other.有三个线程让他们按序循环不停的执行.我自己的想法;
+package other.有三个线程让他们按序循环不停的执行.想法错误之错误我自己的想法;
 
 /**
  * created by memory
